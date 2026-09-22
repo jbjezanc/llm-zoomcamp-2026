@@ -1,0 +1,3136 @@
+question,answer_llm,answer_orig,document
+"I just found this course — is it still okay to join now, or did I miss the start?","Yes, you can still join now. You can start whenever you want, and if you want a certificate, make sure to submit your project while submissions are still being accepted.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.",74eb249bbf
+"If I start late, can I still take part in the course and work through the materials?","Yes. You can start whenever you want and still work through the videos, notebooks, and GitHub materials. If you want a certificate, though, you need to submit your project while a live cohort is still accepting submissions.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.",74eb249bbf
+Am I allowed to join after the course has already begun?,"Yes, you can still join after the course has already begun. However, if you want to receive a certificate, you need to submit your project while the course is still accepting submissions.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.",74eb249bbf
+Will I still be able to get a certificate if I enroll now?,"Yes, but only if you submit your project while the course is still accepting submissions and complete the required peer reviews. If the live cohort is still open, you can still get a certificate.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.",74eb249bbf
+What’s the deadline if I want to earn the certificate after joining late?,"You need to submit your capstone project while the course is still accepting submissions. After that, you also must complete the assigned peer reviews within the peer-review window.
+
+I don’t know the exact deadline for your specific late join, but the key rule is: **certificate eligibility ends when project submissions close**.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.",74eb249bbf
+I signed up for LLM Zoomcamp but still didn't get any confirmation email — do I need to wait for one before starting?,"No — you don’t need to wait for a confirmation email. You’re accepted, and you can start learning and submitting homework as long as the form is open. Registration isn’t checked against a list.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,977bf7786c
+"Do I need an acceptance or confirmation email to begin the LLM Zoomcamp homework, or can I just start?","You don’t need an acceptance or confirmation email. You’re accepted, and you can just start learning and submitting homework while the form is open.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,977bf7786c
+"If I registered for the LLM Zoomcamp, is there some approval email I’m supposed to receive later?","You don’t need to wait for an approval or confirmation email. You’re accepted already, and registration is just to gauge interest. You can start learning and submitting homework while the form is open.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,977bf7786c
+"Can I submit LLM Zoomcamp homework without being on some official registered list, or is registration required first?","Yes — you can submit LLM Zoomcamp homework without being on an official registered list. Registration is **not required first**. You can start learning and submit homework while the form is open, and it is **not checked against any registered list**. Registration is only to gauge interest before the start date.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,977bf7786c
+What’s the point of registering for the LLM Zoomcamp if it doesn’t seem to trigger a confirmation message?,"You don’t need a confirmation message. You’re accepted already.
+
+The registration form is just to gauge interest before the start date, and it is **not checked against a registered list**. You can just start learning and submit homework while the form is open.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,977bf7786c
+How do I join the Office Hours or live workshop if the Zoom link isn’t shared with students?,"The Zoom link is only shared with instructors/presenters/TAs.
+
+If you're a student, join via **YouTube Live** instead. The live video URL is posted in the **announcements channel on Telegram and Slack** before the session starts, and you can also watch on the **DataTalksClub YouTube channel**. For questions, use **Slido** — the link is pinned in the chat when the session is live.","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.",489dd1c9d9
+Where do I find the live stream link for office hours before the session starts?,The live stream link is usually posted in the **announcements channel on Telegram and Slack before the session begins**. You can also watch it on the **DataTalksClub YouTube channel**.,"The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.",489dd1c9d9
+"Can students get the Zoom URL for workshop sessions, or is it only for the teaching team?","The Zoom URL is only published to instructors/presenters/TAs, not students. Students join via YouTube Live and can ask questions through Slido.","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.",489dd1c9d9
+What should I use to ask questions during the live session if I’m watching on YouTube?,Use **Slido** to submit questions during the live session. The Slido link is pinned in the chat when the session is live.,"The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.",489dd1c9d9
+Is there a place to watch the office hours live and submit questions without using the Zoom room?,"Yes. You can watch live on YouTube Live and submit questions in Slido without using the Zoom room. The Zoom link is only for instructors/presenters/TAs, and the video URL is posted in the announcements channel before the session starts.","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.",489dd1c9d9
+What’s the best way to begin the course and not miss anything important?,"Start with these three resources:
+
+1. The [LLM Zoomcamp docs](https://datatalks.club/docs/courses/llm-zoomcamp/)
+2. The [general Zoomcamp logistics docs](https://datatalks.club/docs/courses/zoomcamp-logistics/)
+3. The [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp)
+
+Then follow this weekly workflow:
+
+1. Watch the lesson videos.
+2. Work through the lesson notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit your answers on the course platform before the deadline.
+
+You can start anytime, and the videos, GitHub materials, and deadlines are all available on the course management platform.","Start with the [LLM Zoomcamp docs](https://datatalks.club/docs/courses/llm-zoomcamp/), the [general Zoomcamp logistics docs](https://datatalks.club/docs/courses/zoomcamp-logistics/), and the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp).
+
+You can start whenever you want. The videos and GitHub materials are available, and the deadlines are listed in the [course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+A typical workflow is:
+
+1. Watch the lesson videos.
+2. Work through the lesson notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit answers through the course platform before the deadline.
+
+Homework is similar to the lesson flow, but uses a different dataset or slightly different task.",04919992b3
+"Do I have to start the LLM Zoomcamp at a fixed time, or can I jump in whenever?","You can start whenever you want. The videos and GitHub materials are available, and the deadlines are listed in the course management platform.","Start with the [LLM Zoomcamp docs](https://datatalks.club/docs/courses/llm-zoomcamp/), the [general Zoomcamp logistics docs](https://datatalks.club/docs/courses/zoomcamp-logistics/), and the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp).
+
+You can start whenever you want. The videos and GitHub materials are available, and the deadlines are listed in the [course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+A typical workflow is:
+
+1. Watch the lesson videos.
+2. Work through the lesson notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit answers through the course platform before the deadline.
+
+Homework is similar to the lesson flow, but uses a different dataset or slightly different task.",04919992b3
+"What’s the usual weekly routine for watching the lessons, doing the notebooks, and handing in homework?","A typical weekly routine is:
+
+1. Watch the lesson videos.
+2. Work through the lesson notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit your answers through the course platform before the deadline.
+
+Homework usually follows the lesson flow, but with a different dataset or slightly different task.","Start with the [LLM Zoomcamp docs](https://datatalks.club/docs/courses/llm-zoomcamp/), the [general Zoomcamp logistics docs](https://datatalks.club/docs/courses/zoomcamp-logistics/), and the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp).
+
+You can start whenever you want. The videos and GitHub materials are available, and the deadlines are listed in the [course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+A typical workflow is:
+
+1. Watch the lesson videos.
+2. Work through the lesson notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit answers through the course platform before the deadline.
+
+Homework is similar to the lesson flow, but uses a different dataset or slightly different task.",04919992b3
+"Where do I find the main course materials, deadlines, and homework instructions?","The main course materials are in:
+
+- the **LLM Zoomcamp docs**: https://datatalks.club/docs/courses/llm-zoomcamp/
+- the **LLM Zoomcamp GitHub repo**: https://github.com/DataTalksClub/llm-zoomcamp
+- the **course management platform** for the current cohort, including **deadlines and progress tracking**: https://courses.datatalks.club/llm-zoomcamp-2026/
+
+For homework instructions, check the **GitHub homework instructions** first, because they often include extra context:
+
+- **Module 1 cohort materials**: https://github.com/DataTalksClub/llm-zoomcamp/tree/main/cohorts/2026/01-agentic-rag
+- **Module 1 homework instructions**: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2026/01-agentic-rag/homework.md
+
+So in short: **course platform for deadlines/submission, GitHub for the detailed materials and homework instructions**.","Start with the [LLM Zoomcamp docs](https://datatalks.club/docs/courses/llm-zoomcamp/), the [general Zoomcamp logistics docs](https://datatalks.club/docs/courses/zoomcamp-logistics/), and the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp).
+
+You can start whenever you want. The videos and GitHub materials are available, and the deadlines are listed in the [course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+A typical workflow is:
+
+1. Watch the lesson videos.
+2. Work through the lesson notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit answers through the course platform before the deadline.
+
+Homework is similar to the lesson flow, but uses a different dataset or slightly different task.",04919992b3
+"Is the homework basically the same as the lesson exercises, or does it use different data/tasks?","The homework follows the lesson workflow, but usually uses a different dataset or asks you to apply the same idea in a slightly different way.","Start with the [LLM Zoomcamp docs](https://datatalks.club/docs/courses/llm-zoomcamp/), the [general Zoomcamp logistics docs](https://datatalks.club/docs/courses/zoomcamp-logistics/), and the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp).
+
+You can start whenever you want. The videos and GitHub materials are available, and the deadlines are listed in the [course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+A typical workflow is:
+
+1. Watch the lesson videos.
+2. Work through the lesson notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit answers through the course platform before the deadline.
+
+Homework is similar to the lesson flow, but uses a different dataset or slightly different task.",04919992b3
+I can’t find my name on the leaderboard — how do I jump to my own entry?,"Click the **""Jump to your record on the leaderboard""** link. When your account is created, you’re automatically assigned a random display name, so that link will take you to your own entry.
+
+","When you set up your account, you are automatically assigned a random name, such as “Lucid Elbakyan.” Click on the ""Jump to your record on the leaderboard"" link to find your entry.
+
+If you want to see what your Display name is, click on the ""Edit Course Profile"" button.
+
+<{IMAGE:image_1}>
+
+- **First field:** This is your nickname/displayed name. You can change it if you want to be known by your Slack username, GitHub username, or any other nickname of your choice. This is useful if you want to remain anonymous.
+- **Second field:** Change this to your official name as in your identification documents—passport, national ID card, driver's license, etc. This is mandatory if you do not want ""Lucid Elbakyan"" on your certificate. This name will appear on your Certificate!",c2903069a0
+Why does the leaderboard show some random nickname instead of my real name?,"The leaderboard shows your public **display name**, which is anonymous by default and can be a random nickname like “Lucid Elbakyan.”
+
+Your **real name** goes in the **certificate name** field, and that name appears only on your certificate, not on the public leaderboard.
+
+You can change both in **Edit Course Profile**:
+- **First field:** leaderboard nickname/display name
+- **Second field:** certificate name
+
+","When you set up your account, you are automatically assigned a random name, such as “Lucid Elbakyan.” Click on the ""Jump to your record on the leaderboard"" link to find your entry.
+
+If you want to see what your Display name is, click on the ""Edit Course Profile"" button.
+
+<{IMAGE:image_1}>
+
+- **First field:** This is your nickname/displayed name. You can change it if you want to be known by your Slack username, GitHub username, or any other nickname of your choice. This is useful if you want to remain anonymous.
+- **Second field:** Change this to your official name as in your identification documents—passport, national ID card, driver's license, etc. This is mandatory if you do not want ""Lucid Elbakyan"" on your certificate. This name will appear on your Certificate!",c2903069a0
+Where can I check what my current display name is in the course profile?,Click **“Edit Course Profile”**. The **first field** is your current **display name/nickname** shown on the leaderboard.,"When you set up your account, you are automatically assigned a random name, such as “Lucid Elbakyan.” Click on the ""Jump to your record on the leaderboard"" link to find your entry.
+
+If you want to see what your Display name is, click on the ""Edit Course Profile"" button.
+
+<{IMAGE:image_1}>
+
+- **First field:** This is your nickname/displayed name. You can change it if you want to be known by your Slack username, GitHub username, or any other nickname of your choice. This is useful if you want to remain anonymous.
+- **Second field:** Change this to your official name as in your identification documents—passport, national ID card, driver's license, etc. This is mandatory if you do not want ""Lucid Elbakyan"" on your certificate. This name will appear on your Certificate!",c2903069a0
+Can I change the name that shows up on the leaderboard to my Slack or GitHub name?,"Yes. In **Edit Course Profile**, the **first field** is your public nickname/display name, and you can change it to your **Slack username, GitHub username, or any other nickname** you want. This is the name that shows on the leaderboard.","When you set up your account, you are automatically assigned a random name, such as “Lucid Elbakyan.” Click on the ""Jump to your record on the leaderboard"" link to find your entry.
+
+If you want to see what your Display name is, click on the ""Edit Course Profile"" button.
+
+<{IMAGE:image_1}>
+
+- **First field:** This is your nickname/displayed name. You can change it if you want to be known by your Slack username, GitHub username, or any other nickname of your choice. This is useful if you want to remain anonymous.
+- **Second field:** Change this to your official name as in your identification documents—passport, national ID card, driver's license, etc. This is mandatory if you do not want ""Lucid Elbakyan"" on your certificate. This name will appear on your Certificate!",c2903069a0
+What name should I enter if I want my certificate to use my real full name instead of the default one?,Enter your official full name in the **second field** of **Edit Course Profile** — the name exactly as it appears on your ID/passport. This is the name that will be printed on your certificate instead of the default name.,"When you set up your account, you are automatically assigned a random name, such as “Lucid Elbakyan.” Click on the ""Jump to your record on the leaderboard"" link to find your entry.
+
+If you want to see what your Display name is, click on the ""Edit Course Profile"" button.
+
+<{IMAGE:image_1}>
+
+- **First field:** This is your nickname/displayed name. You can change it if you want to be known by your Slack username, GitHub username, or any other nickname of your choice. This is useful if you want to remain anonymous.
+- **Second field:** Change this to your official name as in your identification documents—passport, national ID card, driver's license, etc. This is mandatory if you do not want ""Lucid Elbakyan"" on your certificate. This name will appear on your Certificate!",c2903069a0
+Can I do the course on my own schedule and still earn the certificate later with a live cohort?,"Yes — you can work through the material on your own schedule in self-paced mode, but to earn the certificate you must later finish the course with a live cohort.
+
+You can prepare your project self-paced, but the actual capstone submission and required peer reviews must happen while a live cohort is accepting them.","No, you can only get a certificate if you finish the course with a ""live"" cohort.
+
+To get the certificate, you need to finish a capstone project and complete the
+required peer reviews. Homework is not required. You can work through the
+material and prepare your project in self-paced mode, but project submission and
+peer review must happen while a live cohort is accepting them.",69d122f12e
+"If I study all the materials in self-paced mode, what still has to be done during the live cohort to get certified?","You still need to:
+
+- **Submit your capstone project** during a live cohort
+- **Complete the required peer reviews**
+
+Homework is **not** required. You can prepare everything in self-paced mode, but **project submission and peer review must happen while a live cohort is accepting them**.","No, you can only get a certificate if you finish the course with a ""live"" cohort.
+
+To get the certificate, you need to finish a capstone project and complete the
+required peer reviews. Homework is not required. You can work through the
+material and prepare your project in self-paced mode, but project submission and
+peer review must happen while a live cohort is accepting them.",69d122f12e
+"Do I need to submit homework to receive the certificate, or is the final project enough?","No. Homework is not required for the certificate.
+
+You need to pass the Capstone project, and complete the required peer reviews. Homework is recommended, but it only affects your leaderboard rank, not certificate eligibility.","No, you can only get a certificate if you finish the course with a ""live"" cohort.
+
+To get the certificate, you need to finish a capstone project and complete the
+required peer reviews. Homework is not required. You can work through the
+material and prepare your project in self-paced mode, but project submission and
+peer review must happen while a live cohort is accepting them.",69d122f12e
+When exactly do the project submission and peer reviews need to happen if I want the certificate?,"To get the certificate, **both your capstone project submission and your peer reviews must happen during the live cohort’s active windows**.
+
+Specifically:
+
+- **Project submission** must be done while the cohort is accepting submissions.
+- **Peer reviews** must be completed **after submissions close**, during the **peer-review window**.
+- The peer-review window lasts **about one week** and the **exact deadline is shown on the course management platform** with your assigned projects.
+- If you miss the peer-review window, the submission **won’t count toward the certificate**, even if the project itself passed.
+
+I don’t know the exact dates for your cohort from the context, so please check the course management platform for the current deadlines.","No, you can only get a certificate if you finish the course with a ""live"" cohort.
+
+To get the certificate, you need to finish a capstone project and complete the
+required peer reviews. Homework is not required. You can work through the
+material and prepare your project in self-paced mode, but project submission and
+peer review must happen while a live cohort is accepting them.",69d122f12e
+Is it possible to prepare the capstone first by myself and then join a live cohort just for the certificate requirements?,"Yes, you can prepare the capstone project by yourself in self-paced mode, but to get the certificate you must **submit the project and complete the peer reviews while a live cohort is accepting them**.  
+
+So: **prepare first on your own = yes**; **join later only for certificate submission/reviews = yes, but only if the live cohort is open for submissions and peer reviews**.","No, you can only get a certificate if you finish the course with a ""live"" cohort.
+
+To get the certificate, you need to finish a capstone project and complete the
+required peer reviews. Homework is not required. You can work through the
+material and prepare your project in self-paced mode, but project submission and
+peer review must happen while a live cohort is accepting them.",69d122f12e
+"Do I still qualify for the certificate if I skipped the first homework, or is the Capstone the only thing that matters?",Yes — you still qualify for the certificate if you skipped the first homework. Homework is not mandatory; what matters for the certificate is passing the Capstone project.,"Yes, you need to pass the Capstone project to get the certificate. Homework is not mandatory, though it is recommended for reinforcing concepts, and the points awarded count towards your rank on the leaderboard.",9f689c185f
+"Is homework required to get the course certificate, or can I ignore it and still finish the course?","No. Homework is not required for the certificate, and you can still finish the course without it. To get the certificate, you need to pass the Capstone project and complete the required peer reviews while a live cohort is accepting submissions.","Yes, you need to pass the Capstone project to get the certificate. Homework is not mandatory, though it is recommended for reinforcing concepts, and the points awarded count towards your rank on the leaderboard.",9f689c185f
+"If I don’t submit all the homework, will I lose my chance at a certificate?",No. Missing homework won’t affect your certificate — homework is not mandatory. You only need to pass the Capstone project to get the certificate.,"Yes, you need to pass the Capstone project to get the certificate. Homework is not mandatory, though it is recommended for reinforcing concepts, and the points awarded count towards your rank on the leaderboard.",9f689c185f
+What do I actually need to complete to receive the certificate in this course?,"To receive the certificate, you need to:
+
+- **Finish a capstone project**
+- **Complete the required peer reviews**
+
+Homework is **not required**.
+
+Also, the project submission and peer reviews must happen while a **live cohort** is accepting them. You can prepare the work in self-paced mode, but you can only get the certificate if you finish with a live cohort.","Yes, you need to pass the Capstone project to get the certificate. Homework is not mandatory, though it is recommended for reinforcing concepts, and the points awarded count towards your rank on the leaderboard.",9f689c185f
+"Are homework assignments mandatory, or are they just for practice and leaderboard points?","Homework is **not mandatory**. It’s mainly for **practice/reinforcing concepts**, and the points you earn **count toward your leaderboard rank**. To get the certificate, you only need to **pass the Capstone project**.","Yes, you need to pass the Capstone project to get the certificate. Homework is not mandatory, though it is recommended for reinforcing concepts, and the points awarded count towards your rank on the leaderboard.",9f689c185f
+Why does the homework content keep changing before I submit it?,"Because the homework may still be a **draft**.
+
+The homework is only considered final when:
+
+- the homework form is open on the course management platform, **and**
+- the homework title does **not** contain `[DRAFT]`
+
+Until both are true, the content can still change. Working on it early is at your own risk, since the final version may be different.","If the homework title contains `[DRAFT]`, it means the homework is not ready yet.
+
+The homework is ready only when both are true:
+
+- The homework form is open on the course management platform.
+- The homework title does not contain `[DRAFT]`.
+
+Until then, the content can still change. Working on the material or homework in advance is at your own risk, because the final version can be different.",96286b4be4
+What does it mean when a homework title has [DRAFT] in it?,It means the homework is **not ready yet**. The content may still change until the title no longer contains `[DRAFT]` and the homework form is open on the course management platform.,"If the homework title contains `[DRAFT]`, it means the homework is not ready yet.
+
+The homework is ready only when both are true:
+
+- The homework form is open on the course management platform.
+- The homework title does not contain `[DRAFT]`.
+
+Until then, the content can still change. Working on the material or homework in advance is at your own risk, because the final version can be different.",96286b4be4
+How can I tell if the homework is actually ready and final?,"The homework is ready only when both of these are true:
+
+- The homework form is open on the course management platform.
+- The homework title does **not** contain `[DRAFT]`.
+
+If the title still has `[DRAFT]`, it is not final yet, and the content can still change.","If the homework title contains `[DRAFT]`, it means the homework is not ready yet.
+
+The homework is ready only when both are true:
+
+- The homework form is open on the course management platform.
+- The homework title does not contain `[DRAFT]`.
+
+Until then, the content can still change. Working on the material or homework in advance is at your own risk, because the final version can be different.",96286b4be4
+Is it safe to start working on a homework if it still looks like a draft?,"It’s not fully safe if it still looks like a draft.
+
+The homework is considered ready only when both are true:
+- the homework form is open on the course management platform, and
+- the homework title does **not** contain `[DRAFT]`.
+
+Until then, the content can still change, so working on it in advance is **at your own risk** because the final version may be different.","If the homework title contains `[DRAFT]`, it means the homework is not ready yet.
+
+The homework is ready only when both are true:
+
+- The homework form is open on the course management platform.
+- The homework title does not contain `[DRAFT]`.
+
+Until then, the content can still change. Working on the material or homework in advance is at your own risk, because the final version can be different.",96286b4be4
+Why do the homework instructions or questions sometimes change after they appear?,"Because if the homework title contains **`[DRAFT]`**, the homework is **not ready yet**. Until it is ready, the content can still change.
+
+The homework is considered ready only when **both** are true:
+
+- the homework form is **open** on the course management platform
+- the homework title **does not contain `[DRAFT]`**
+
+So if you see changes, it means you were looking at a draft version. Working on it early is at your own risk, because the final version may be different.","If the homework title contains `[DRAFT]`, it means the homework is not ready yet.
+
+The homework is ready only when both are true:
+
+- The homework form is open on the course management platform.
+- The homework title does not contain `[DRAFT]`.
+
+Until then, the content can still change. Working on the material or homework in advance is at your own risk, because the final version can be different.",96286b4be4
+When is the next llm-zoomcamp session starting?,I don't know.,Summer 2027.,bd31146b0e
+Do you know when this course will be offered again?,Summer 2027.,Summer 2027.,bd31146b0e
+What’s the next time this course is planned to run?,Summer 2027.,Summer 2027.,bd31146b0e
+Is there a summer 2027 offering for llm-zoomcamp?,Yes — the course next offered is **Summer 2027**.,Summer 2027.,bd31146b0e
+When should I expect the next course run to begin?,The next course run is expected to begin in **Summer 2027**.,Summer 2027.,bd31146b0e
+Is there a place I should start from if I want to find the course lectures and videos?,"Yes — the **main entry point is the LLM Zoomcamp GitHub repository**:
+
+https://github.com/DataTalksClub/llm-zoomcamp
+
+Open the lesson folders there; **each lesson page has the relevant videos linked at the top**. If you're unsure, start with the GitHub repo first, since it’s easier to keep updated than the YouTube playlist.","Use the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp) as the main entry point.
+
+Open the lesson folders in the repo. Each lesson page has the relevant videos linked at the top.
+
+<{IMAGE:lessons}>
+
+When in doubt, follow the GitHub repo first, because it is easier to keep updated than the YouTube playlist.",31456f4b5f
+Where can I see the video links for each lesson in this course?,"Use the **LLM Zoomcamp GitHub repository** as the main entry point. Open the **lesson folders** there — **each lesson page has the relevant video links at the top**.
+
+If you want, I can also point you to the repo structure.","Use the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp) as the main entry point.
+
+Open the lesson folders in the repo. Each lesson page has the relevant videos linked at the top.
+
+<{IMAGE:lessons}>
+
+When in doubt, follow the GitHub repo first, because it is easier to keep updated than the YouTube playlist.",31456f4b5f
+"Do I need to use the YouTube playlist, or is there a better place to find the latest lesson videos?","Use the **LLM Zoomcamp GitHub repository** as the main entry point. Open the lesson folders there, and each lesson page has the relevant videos linked at the top.
+
+The repo is the **better place to find the latest lesson videos** because it’s easier to keep updated than the YouTube playlist.","Use the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp) as the main entry point.
+
+Open the lesson folders in the repo. Each lesson page has the relevant videos linked at the top.
+
+<{IMAGE:lessons}>
+
+When in doubt, follow the GitHub repo first, because it is easier to keep updated than the YouTube playlist.",31456f4b5f
+How do I get to the lesson-specific videos for the LLM Zoomcamp?,"Use the **LLM Zoomcamp GitHub repository** as the main entry point: open the **lesson folders**, and each lesson page has the relevant videos linked at the top.","Use the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp) as the main entry point.
+
+Open the lesson folders in the repo. Each lesson page has the relevant videos linked at the top.
+
+<{IMAGE:lessons}>
+
+When in doubt, follow the GitHub repo first, because it is easier to keep updated than the YouTube playlist.",31456f4b5f
+What's the main source for the course materials and lecture links?,"The main sources are the **LLM Zoomcamp GitHub repository** and the **course management platform**.
+
+For materials and lecture links, start with:
+- the **LLM Zoomcamp docs**
+- the **general Zoomcamp logistics docs**
+- the **LLM Zoomcamp GitHub repository**
+
+The course platform is mainly for **deadlines and submissions**, while the GitHub repo contains the core materials and often the lecture/video links.","Use the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp) as the main entry point.
+
+Open the lesson folders in the repo. Each lesson page has the relevant videos linked at the top.
+
+<{IMAGE:lessons}>
+
+When in doubt, follow the GitHub repo first, because it is easier to keep updated than the YouTube playlist.",31456f4b5f
+Is there a place where I can see the LLM Zoomcamp syllabus and deadlines all in one spot?,"Yes — use the **LLM Zoomcamp course management platform**: https://courses.datatalks.club/llm-zoomcamp-2026/
+
+It has the **syllabus/current cohort structure, homework, deadlines, and progress tracking** all in one place.","Use the [LLM Zoomcamp course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+It contains the current cohort structure, homework, deadlines, and progress tracking. The process is the same as in other DataTalks.Club Zoomcamps.",20c5a1347e
+Where should I go to keep track of homework and my progress in LLM Zoomcamp?,"Use the **LLM Zoomcamp course management platform** to track your **syllabus, deadlines, homework, and progress**:
+
+https://courses.datatalks.club/llm-zoomcamp-2026/","Use the [LLM Zoomcamp course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+It contains the current cohort structure, homework, deadlines, and progress tracking. The process is the same as in other DataTalks.Club Zoomcamps.",20c5a1347e
+Does the course have a management platform for the current cohort structure and assignments?,"Yes — the course uses a management platform for the current cohort structure, homework, deadlines, and progress tracking:
+
+[LLM Zoomcamp course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/)
+
+","Use the [LLM Zoomcamp course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+It contains the current cohort structure, homework, deadlines, and progress tracking. The process is the same as in other DataTalks.Club Zoomcamps.",20c5a1347e
+How do I check the LLM Zoomcamp deadlines and follow along with the course progress?,"Use the **LLM Zoomcamp course management platform** to check the **deadlines, homework, syllabus, and progress**:
+
+https://courses.datatalks.club/llm-zoomcamp-2026/
+
+For following along with the course, you can also start with:
+
+- the **LLM Zoomcamp docs**: https://datatalks.club/docs/courses/llm-zoomcamp/
+- the **general Zoomcamp logistics docs**: https://datatalks.club/docs/courses/zoomcamp-logistics/
+- the **LLM Zoomcamp GitHub repo**: https://github.com/DataTalksClub/llm-zoomcamp
+
+A typical workflow is:
+1. Watch the lesson videos
+2. Work through the lesson notebooks/code
+3. Read the homework instructions on GitHub
+4. Submit answers on the course platform before the deadline
+
+I don’t know anything beyond what’s in the course platform and docs.","Use the [LLM Zoomcamp course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+It contains the current cohort structure, homework, deadlines, and progress tracking. The process is the same as in other DataTalks.Club Zoomcamps.",20c5a1347e
+Is the Zoomcamp tracking process the same as the other DataTalks.Club courses?,Yes. The context says the LLM Zoomcamp process is the same as in other DataTalks.Club Zoomcamps.,"Use the [LLM Zoomcamp course management platform](https://courses.datatalks.club/llm-zoomcamp-2026/).
+
+It contains the current cohort structure, homework, deadlines, and progress tracking. The process is the same as in other DataTalks.Club Zoomcamps.",20c5a1347e
+"Do we have live sessions or office hours for every module in this course, or is everything just pre-recorded?","There are **no separate live sessions for every module by default**. The module materials are **pre-recorded** and available in the course repo.
+
+If live sessions happen, they’re **announced separately**. If you get stuck, you should ask in **Slack** and follow the question-asking guidelines.","There are no separate live sessions for every module by default. Module materials are pre-recorded and available in the course repo.
+
+Live sessions are announced separately when they happen. If you are stuck, ask your question in Slack and follow the [asking questions guidelines](https://datatalks.club/docs/courses/zoomcamp-logistics/asking-questions/).
+
+Optional extra support is available through [AI Shipping Labs](https://datatalks.club/docs/courses/llm-zoomcamp/ai-shipping-labs/), a paid community that includes regular Zoom office hours and additional structure. This is optional; the DataTalks.Club course content remains free.",d65e05bd7a
+"If I get stuck on a module, should I wait for a live class, or is Slack the place to ask for help?","Slack is the place to ask for help. There aren’t separate live sessions for every module by default, so if you’re stuck, post your question in Slack and follow the asking questions guidelines. Live sessions, when they happen, are announced separately.","There are no separate live sessions for every module by default. Module materials are pre-recorded and available in the course repo.
+
+Live sessions are announced separately when they happen. If you are stuck, ask your question in Slack and follow the [asking questions guidelines](https://datatalks.club/docs/courses/zoomcamp-logistics/asking-questions/).
+
+Optional extra support is available through [AI Shipping Labs](https://datatalks.club/docs/courses/llm-zoomcamp/ai-shipping-labs/), a paid community that includes regular Zoom office hours and additional structure. This is optional; the DataTalks.Club course content remains free.",d65e05bd7a
+"Are live sessions part of the default course setup, or are they only announced sometimes?","Live sessions are **not** part of the default setup for every module. The course materials are **pre-recorded** and available in the repo.
+
+Live sessions are **announced separately when they happen**.","There are no separate live sessions for every module by default. Module materials are pre-recorded and available in the course repo.
+
+Live sessions are announced separately when they happen. If you are stuck, ask your question in Slack and follow the [asking questions guidelines](https://datatalks.club/docs/courses/zoomcamp-logistics/asking-questions/).
+
+Optional extra support is available through [AI Shipping Labs](https://datatalks.club/docs/courses/llm-zoomcamp/ai-shipping-labs/), a paid community that includes regular Zoom office hours and additional structure. This is optional; the DataTalks.Club course content remains free.",d65e05bd7a
+Is there any extra paid support with regular Zoom office hours for this course?,"Yes — there is an optional **paid** support option called **AI Shipping Labs**. It includes **regular Zoom office hours** and additional structure.
+
+The main DataTalks.Club course content remains **free**.","There are no separate live sessions for every module by default. Module materials are pre-recorded and available in the course repo.
+
+Live sessions are announced separately when they happen. If you are stuck, ask your question in Slack and follow the [asking questions guidelines](https://datatalks.club/docs/courses/zoomcamp-logistics/asking-questions/).
+
+Optional extra support is available through [AI Shipping Labs](https://datatalks.club/docs/courses/llm-zoomcamp/ai-shipping-labs/), a paid community that includes regular Zoom office hours and additional structure. This is optional; the DataTalks.Club course content remains free.",d65e05bd7a
+Where can I find the module materials if there aren’t separate live sessions for each one?,The module materials are available in the course repo as pre-recorded materials.,"There are no separate live sessions for every module by default. Module materials are pre-recorded and available in the course repo.
+
+Live sessions are announced separately when they happen. If you are stuck, ask your question in Slack and follow the [asking questions guidelines](https://datatalks.club/docs/courses/zoomcamp-logistics/asking-questions/).
+
+Optional extra support is available through [AI Shipping Labs](https://datatalks.club/docs/courses/llm-zoomcamp/ai-shipping-labs/), a paid community that includes regular Zoom office hours and additional structure. This is optional; the DataTalks.Club course content remains free.",d65e05bd7a
+Can I count Bluesky posts toward my learning in public credits for the course?,Yes. Bluesky posts can be used for learning in public credits for the course.,Yes. Bluesky posts can be used for learning in public credits.,dbf5369006
+Are Bluesky updates accepted as valid learning in public proof?,Yes. Bluesky posts can be used for learning in public credits.,Yes. Bluesky posts can be used for learning in public credits.,dbf5369006
+"If I share my progress on Bluesky, does that qualify for course credits?",Yes. Bluesky posts can be used for learning in public credits.,Yes. Bluesky posts can be used for learning in public credits.,dbf5369006
+Do Bluesky posts count when you’re doing learning in public for the class?,Yes. Bluesky posts can be used for learning in public credits.,Yes. Bluesky posts can be used for learning in public credits.,dbf5369006
+Is it okay to use Bluesky activity as evidence for learning in public credits?,Yes. Bluesky posts can be used for learning in public credits.,Yes. Bluesky posts can be used for learning in public credits.,dbf5369006
+What’s the Telegram link for the LLM Zoomcamp channel?,The Telegram link for the LLM Zoomcamp channel is: https://t.me/llm_zoomcamp,"The Telegram channel is [https://t.me/llm_zoomcamp](https://t.me/llm_zoomcamp).
+
+Use it for announcements. For technical discussion and questions, use the course Slack channel.",054f3fd58f
+Where can I join the LLM Zoomcamp Telegram group for announcements?,The LLM Zoomcamp Telegram channel for announcements is: https://t.me/llm_zoomcamp,"The Telegram channel is [https://t.me/llm_zoomcamp](https://t.me/llm_zoomcamp).
+
+Use it for announcements. For technical discussion and questions, use the course Slack channel.",054f3fd58f
+"Is there a Telegram channel for LLM Zoomcamp, and what is it used for?","Yes — the Telegram channel is [https://t.me/llm_zoomcamp](https://t.me/llm_zoomcamp).
+
+It is used for announcements. For technical discussion and questions, use the course Slack channel.","The Telegram channel is [https://t.me/llm_zoomcamp](https://t.me/llm_zoomcamp).
+
+Use it for announcements. For technical discussion and questions, use the course Slack channel.",054f3fd58f
+Should I ask technical questions in the Telegram channel or somewhere else?,Use the **course Slack channel** for technical discussion and questions. The Telegram channel is mainly for **announcements**.,"The Telegram channel is [https://t.me/llm_zoomcamp](https://t.me/llm_zoomcamp).
+
+Use it for announcements. For technical discussion and questions, use the course Slack channel.",054f3fd58f
+Where do I go for LLM Zoomcamp announcements and where should I ask course questions?,"Use the **Telegram channel** for **announcements**: https://t.me/llm_zoomcamp
+
+Use the **course Slack channel** for **technical discussion and course questions**.","The Telegram channel is [https://t.me/llm_zoomcamp](https://t.me/llm_zoomcamp).
+
+Use it for announcements. For technical discussion and questions, use the course Slack channel.",054f3fd58f
+Why does my FAQ document count not match the one shown in the lecture video?,"The FAQ document count can differ because the course uses a live FAQ dataset that changes over time. Questions may be added, updated, or deleted, so if your notebook downloads the latest data, the document count and RAG index may not match the snapshot shown in the lecture video.
+
+This does not necessarily mean your implementation is wrong. To reproduce the video exactly, you would need the same dataset snapshot or Git commit; otherwise, different results are expected.","The course loads documents from the live FAQ dataset, which changes over time as
+questions are added, updated, or deleted. If your notebook downloads the latest
+data, its document count and RAG index can differ from the snapshot used when the
+videos were recorded. Different retrieved context can then produce a different
+final answer.
+
+This does not necessarily mean your implementation is wrong. To reproduce a
+video exactly, use the same dataset snapshot or Git commit; otherwise, expect
+results from the current dataset to differ.",e2d595f23c
+Is it normal if my RAG answers are different from the course video’s output?,"Yes, that can be normal.
+
+The course uses a live FAQ dataset, so the documents can change over time. If your notebook downloads the latest version, your retrieved context and final RAG answer may differ from the video, which was recorded with an earlier snapshot.
+
+So a different answer does not necessarily mean your implementation is wrong. If you want to reproduce the video exactly, use the same dataset snapshot or Git commit.","The course loads documents from the live FAQ dataset, which changes over time as
+questions are added, updated, or deleted. If your notebook downloads the latest
+data, its document count and RAG index can differ from the snapshot used when the
+videos were recorded. Different retrieved context can then produce a different
+final answer.
+
+This does not necessarily mean your implementation is wrong. To reproduce a
+video exactly, use the same dataset snapshot or Git commit; otherwise, expect
+results from the current dataset to differ.",e2d595f23c
+"Could the FAQ data have changed since the recording, and would that affect retrieval results?","Yes. The FAQ dataset can change over time as questions are added, updated, or deleted. If you download the latest data, the document count and RAG index may differ from the snapshot used in the recording, which can change the retrieved context and therefore the final answer.
+
+So differing retrieval results do not necessarily mean your implementation is wrong. To reproduce the video exactly, use the same dataset snapshot or Git commit; otherwise, different results are expected.","The course loads documents from the live FAQ dataset, which changes over time as
+questions are added, updated, or deleted. If your notebook downloads the latest
+data, its document count and RAG index can differ from the snapshot used when the
+videos were recorded. Different retrieved context can then produce a different
+final answer.
+
+This does not necessarily mean your implementation is wrong. To reproduce a
+video exactly, use the same dataset snapshot or Git commit; otherwise, expect
+results from the current dataset to differ.",e2d595f23c
+"If I use the latest FAQ dataset, why might my notebook get a different index than the video?","If you use the latest FAQ dataset, your notebook may get a different index because the live FAQ data changes over time. Questions can be added, updated, or deleted, so the document count and RAG index may differ from the snapshot used in the video. That can also lead to different retrieved context and different final answers.
+
+To reproduce the video exactly, use the same dataset snapshot or Git commit.","The course loads documents from the live FAQ dataset, which changes over time as
+questions are added, updated, or deleted. If your notebook downloads the latest
+data, its document count and RAG index can differ from the snapshot used when the
+videos were recorded. Different retrieved context can then produce a different
+final answer.
+
+This does not necessarily mean your implementation is wrong. To reproduce a
+video exactly, use the same dataset snapshot or Git commit; otherwise, expect
+results from the current dataset to differ.",e2d595f23c
+How can I make my RAG notebook match the exact results from the recorded lecture?,"To match the exact results from the recorded lecture, you need to use the same dataset snapshot or Git commit that was used when the video was recorded.
+
+The FAQ dataset can change over time, so if your notebook downloads the latest data, the number of documents and the RAG index may differ. That can lead to different retrieved context and therefore different answers.
+
+If you use the current live dataset, different results are expected.","The course loads documents from the live FAQ dataset, which changes over time as
+questions are added, updated, or deleted. If your notebook downloads the latest
+data, its document count and RAG index can differ from the snapshot used when the
+videos were recorded. Different retrieved context can then produce a different
+final answer.
+
+This does not necessarily mean your implementation is wrong. To reproduce a
+video exactly, use the same dataset snapshot or Git commit; otherwise, expect
+results from the current dataset to differ.",e2d595f23c
+"The homework deadline already passed, but the submission form is still open — can I still turn it in?","Yes. As long as the submission form is still open, you can submit your homework even if the deadline has already passed. You can no longer submit only after the form has been closed.","Yes. As long as the submission form is still open, you can submit your answers, even if the listed deadline has already passed. You can no longer submit only after the form has been closed — so while it's still open, go ahead and submit.",a9353fadfe
+"If the deadline is over and the form hasn’t closed yet, is my homework submission still allowed?","Yes. As long as the homework submission form is still open, you can still submit your homework even if the deadline has already passed.","Yes. As long as the submission form is still open, you can submit your answers, even if the listed deadline has already passed. You can no longer submit only after the form has been closed — so while it's still open, go ahead and submit.",a9353fadfe
+Can I submit a homework after the listed deadline as long as the form is still open?,"Yes. As long as the homework submission form is still open, you can submit it even if the listed deadline has passed. You can only no longer submit once the form is closed.","Yes. As long as the submission form is still open, you can submit your answers, even if the listed deadline has already passed. You can no longer submit only after the form has been closed — so while it's still open, go ahead and submit.",a9353fadfe
+"Once the due date passes, do I lose the chance to submit, or only when the form closes?","You can still submit while the form is open, even if the due date has passed. You lose the chance to submit only when the form closes.","Yes. As long as the submission form is still open, you can submit your answers, even if the listed deadline has already passed. You can no longer submit only after the form has been closed — so while it's still open, go ahead and submit.",a9353fadfe
+The form is still accepting responses even though the deadline passed — should I submit now?,"Yes — if the submission form is still open, you can submit even if the deadline has already passed. You can no longer submit only after the form is closed.","Yes. As long as the submission form is still open, you can submit your answers, even if the listed deadline has already passed. You can no longer submit only after the form has been closed — so while it's still open, go ahead and submit.",a9353fadfe
+"Can I still turn in homework after the deadline if the submission form is still open, or is it completely locked once the date passes?","Yes — if the submission form is still open, you can still turn it in even after the listed deadline has passed. It’s only completely locked once the form is closed.","No. We don't give individual deadline extensions, and once the homework submission form is closed you can no longer submit it — there are no late submissions. While the form is still open you can submit, even if the listed deadline has already passed.
+
+Missing a homework won't affect your certificate: homework isn't mandatory, only passing the Capstone project is. Homework points only count toward your leaderboard rank, so you'll still appear on the leaderboard with your other submissions.",cdc3b285e5
+"Do you ever give deadline extensions for homework, or are late submissions not allowed at all?","No. We don’t give individual deadline extensions, and once the homework submission form is closed, you can’t submit it anymore — there are no late submissions.
+
+If the form is still open, you can still submit even if the listed deadline has already passed.","No. We don't give individual deadline extensions, and once the homework submission form is closed you can no longer submit it — there are no late submissions. While the form is still open you can submit, even if the listed deadline has already passed.
+
+Missing a homework won't affect your certificate: homework isn't mandatory, only passing the Capstone project is. Homework points only count toward your leaderboard rank, so you'll still appear on the leaderboard with your other submissions.",cdc3b285e5
+"If I miss one homework assignment, does that stop me from getting the course certificate?","No. Homework is not mandatory for the certificate. You still need to pass the Capstone project, and complete the required peer reviews in a live cohort.","No. We don't give individual deadline extensions, and once the homework submission form is closed you can no longer submit it — there are no late submissions. While the form is still open you can submit, even if the listed deadline has already passed.
+
+Missing a homework won't affect your certificate: homework isn't mandatory, only passing the Capstone project is. Homework points only count toward your leaderboard rank, so you'll still appear on the leaderboard with your other submissions.",cdc3b285e5
+How does missing homework affect my leaderboard standing and points?,"Missing a homework does **not** affect your certificate, but it **does** affect your leaderboard standing because homework points count toward your leaderboard rank.
+
+So:
+- **Certificate:** still fine if you complete/pass the Capstone project
+- **Leaderboard:** you’ll have fewer points, so your rank may be lower
+- **No late submissions/extensions** once the homework form is closed","No. We don't give individual deadline extensions, and once the homework submission form is closed you can no longer submit it — there are no late submissions. While the form is still open you can submit, even if the listed deadline has already passed.
+
+Missing a homework won't affect your certificate: homework isn't mandatory, only passing the Capstone project is. Homework points only count toward your leaderboard rank, so you'll still appear on the leaderboard with your other submissions.",cdc3b285e5
+"Is homework required for passing the course, or is the Capstone project the only thing that matters for the certificate?",Homework is not required for the certificate. You need to pass the Capstone project and complete the required peer reviews.,"No. We don't give individual deadline extensions, and once the homework submission form is closed you can no longer submit it — there are no late submissions. While the form is still open you can submit, even if the listed deadline has already passed.
+
+Missing a homework won't affect your certificate: homework isn't mandatory, only passing the Capstone project is. Homework points only count toward your leaderboard rank, so you'll still appear on the leaderboard with your other submissions.",cdc3b285e5
+Will the name I enter for the certificate be public or shared with anyone else?,No. The name you enter for the certificate is only shown on your certificate — it is not public and not shared with third parties. The public leaderboard uses a separate anonymous display name instead.,"No. The certificate name only appears on your certificate — it isn't published online or shared with third parties. The public leaderboard uses your separate display name instead, which is a random nickname (like “Lucid Elbakyan”) and anonymous by default.
+
+You can set both in “Edit Course Profile”: the first field is your public nickname for the leaderboard, and the second is the official name printed on your certificate. This lets you keep your real name off the public leaderboard while still having it on the certificate.",651ba06b34
+Does the certificate name show up on the leaderboard or anywhere online?,No. The certificate name only appears on your certificate — it isn’t published online or shown on the public leaderboard. The leaderboard uses your separate display name instead.,"No. The certificate name only appears on your certificate — it isn't published online or shared with third parties. The public leaderboard uses your separate display name instead, which is a random nickname (like “Lucid Elbakyan”) and anonymous by default.
+
+You can set both in “Edit Course Profile”: the first field is your public nickname for the leaderboard, and the second is the official name printed on your certificate. This lets you keep your real name off the public leaderboard while still having it on the certificate.",651ba06b34
+Can I keep my real name off the public profile but still have it on the certificate?,"Yes. You can keep your real name off the public leaderboard/profile by using a separate public nickname, while still putting your official name in the certificate field so it appears only on the certificate.","No. The certificate name only appears on your certificate — it isn't published online or shared with third parties. The public leaderboard uses your separate display name instead, which is a random nickname (like “Lucid Elbakyan”) and anonymous by default.
+
+You can set both in “Edit Course Profile”: the first field is your public nickname for the leaderboard, and the second is the official name printed on your certificate. This lets you keep your real name off the public leaderboard while still having it on the certificate.",651ba06b34
+What’s the difference between the nickname shown on the leaderboard and the name on the certificate?,"The **leaderboard nickname** is your public **display name** — it’s anonymous by default and shown on the leaderboard.
+
+The **certificate name** is your official name that appears **only on the certificate** and is not shared publicly.
+
+You can set both separately in **Edit Course Profile**:
+- **1st field:** leaderboard nickname
+- **2nd field:** certificate name","No. The certificate name only appears on your certificate — it isn't published online or shared with third parties. The public leaderboard uses your separate display name instead, which is a random nickname (like “Lucid Elbakyan”) and anonymous by default.
+
+You can set both in “Edit Course Profile”: the first field is your public nickname for the leaderboard, and the second is the official name printed on your certificate. This lets you keep your real name off the public leaderboard while still having it on the certificate.",651ba06b34
+Where do I change the public display name and the certificate name in my course profile?,"You can change both in **Edit Course Profile**:
+
+- **First field:** your public display name/nickname for the leaderboard
+- **Second field:** the official name printed on your certificate
+
+","No. The certificate name only appears on your certificate — it isn't published online or shared with third parties. The public leaderboard uses your separate display name instead, which is a random nickname (like “Lucid Elbakyan”) and anonymous by default.
+
+You can set both in “Edit Course Profile”: the first field is your public nickname for the leaderboard, and the second is the official name printed on your certificate. This lets you keep your real name off the public leaderboard while still having it on the certificate.",651ba06b34
+Does the course certificate include the total number of hours spent on the course?,No. The course certificate does not state a total number of hours.,No. The certificate does not state a total number of hours.,5cc511f85b
+Will my certificate mention how many hours the course takes?,No. The certificate does not state the total number of course hours.,No. The certificate does not state a total number of hours.,5cc511f85b
+Is there a course-hours count printed anywhere on the certificate?,No. The certificate does not state a total number of course hours.,No. The certificate does not state a total number of hours.,5cc511f85b
+Can I see the total class hours on the certificate after finishing the course?,No. The certificate does not state the total number of class hours.,No. The certificate does not state a total number of hours.,5cc511f85b
+Does the certificate list the amount of hours for the course?,No. The certificate does not state a total number of hours.,No. The certificate does not state a total number of hours.,5cc511f85b
+Why don’t we use LangChain in this course right away?,"We don’t use LangChain right away because the course wants you to first understand the core building blocks yourself: prompting, retrieval, indexing, and evaluation.
+
+The idea is similar to learning HTML, CSS, and JavaScript before moving to React or Angular. Once you understand the fundamentals, frameworks like LangChain are much easier to use well because you know what they’re automating.","LangChain is a framework for building LLM-powered apps. In this course, we first build the core pieces ourselves: prompting, retrieval, indexing, and evaluation.
+
+Think of it like learning HTML, CSS, and JavaScript before using React or Angular. Frameworks are easier to use well once you understand what they automate.",b7cdde6b25
+What’s the reason for building the RAG pieces ourselves instead of using a framework?,"The reason is to learn the core RAG building blocks first: prompting, retrieval, indexing, and evaluation.
+
+The idea is that frameworks like LangChain become much easier to use well once you understand what they’re automating, similar to learning HTML/CSS/JavaScript before using React or Angular.","LangChain is a framework for building LLM-powered apps. In this course, we first build the core pieces ourselves: prompting, retrieval, indexing, and evaluation.
+
+Think of it like learning HTML, CSS, and JavaScript before using React or Angular. Frameworks are easier to use well once you understand what they automate.",b7cdde6b25
+"Is LangChain considered too advanced for this part of the course, or is there another reason?","No — it’s not mainly because LangChain is “too advanced.” The reason is that the course wants you to first build the core pieces yourself: prompting, retrieval, indexing, and evaluation.
+
+The idea is to understand what LangChain automates before using a framework like it. So it’s more about learning the fundamentals first than about difficulty.","LangChain is a framework for building LLM-powered apps. In this course, we first build the core pieces ourselves: prompting, retrieval, indexing, and evaluation.
+
+Think of it like learning HTML, CSS, and JavaScript before using React or Angular. Frameworks are easier to use well once you understand what they automate.",b7cdde6b25
+Wouldn’t it be faster to just use LangChain for prompting and retrieval in the RAG module?,"It might be faster to build with LangChain, but in the course we first implement the core RAG pieces ourselves: prompting, retrieval, indexing, and evaluation.
+
+The idea is to learn how these pieces work before using a framework that automates them—similar to learning HTML, CSS, and JavaScript before React or Angular.
+
+So: yes, LangChain can help, but this course intentionally starts from the fundamentals.","LangChain is a framework for building LLM-powered apps. In this course, we first build the core pieces ourselves: prompting, retrieval, indexing, and evaluation.
+
+Think of it like learning HTML, CSS, and JavaScript before using React or Angular. Frameworks are easier to use well once you understand what they automate.",b7cdde6b25
+Why does the course make us learn the basics before introducing tools like LangChain?,"The course makes you learn the basics first so you understand the core pieces behind tools like LangChain.
+
+In the course, you build prompting, retrieval, indexing, and evaluation yourself before using a framework. The idea is similar to learning HTML, CSS, and JavaScript before React or Angular: frameworks are easier to use well once you know what they automate.","LangChain is a framework for building LLM-powered apps. In this course, we first build the core pieces ourselves: prompting, retrieval, indexing, and evaluation.
+
+Think of it like learning HTML, CSS, and JavaScript before using React or Angular. Frameworks are easier to use well once you understand what they automate.",b7cdde6b25
+Why do I get an OpenAI API Error: Insufficient credits when I run responses.create?,"Because your OpenAI API account doesn’t have enough billing credits or quota. The course context says `responses.create` can return:
+
+```text
+OpenAI API Error: Insufficient credits
+```
+
+This usually means:
+
+- there is **no free API usage**
+- your account needs **pay-as-you-go billing**
+- you may need to **add at least $5** in credits
+- after adding funds, you may need to **recreate your API key**
+
+If you’re using OpenAI directly, add credits here:
+https://platform.openai.com/settings/organization/billing/overview
+
+If you want, I can also help you distinguish this from the similar 429 rate-limit error.","You may receive the following error when running the OpenAI `responses.create` command due to insufficient credits in your OpenAI account:
+
+```
+OpenAI API Error: Insufficient credits
+```",f5df151c59
+What does it mean if responses.create fails with an insufficient credits message?,"It means your OpenAI account doesn’t have enough credits to run `responses.create`. You may see an error like:
+
+```text
+OpenAI API Error: Insufficient credits
+```
+
+If you’re using OpenRouter, a similar failure can also happen as a 402 error when the request’s `max_output_tokens` is too high, because it checks billing against the maximum possible output. In that case, lowering `max_output_tokens` often fixes it.","You may receive the following error when running the OpenAI `responses.create` command due to insufficient credits in your OpenAI account:
+
+```
+OpenAI API Error: Insufficient credits
+```",f5df151c59
+How can I fix the OpenAI error about not having enough credits for responses.create?,"If you’re seeing an OpenAI `responses.create` error about insufficient credits, the fix is to add funds to your OpenAI account.
+
+Steps:
+1. Go to the OpenAI billing page and add at least $5 in credits.
+2. Make sure your API key is valid and the model you’re calling is available to your account.
+3. If needed, create a new API key after adding credits and update your local `.env`.
+
+If the error is actually from OpenRouter, you should also set a lower `max_output_tokens` value, for example:
+
+```python
+response = client.responses.create(
+    model=os.environ[""OPENAI_MODEL""],
+    input=message_history,
+    max_output_tokens=1024,
+)
+```
+
+If you want, I can also help you check whether you’re using OpenAI or OpenRouter.","You may receive the following error when running the OpenAI `responses.create` command due to insufficient credits in your OpenAI account:
+
+```
+OpenAI API Error: Insufficient credits
+```",f5df151c59
+"Is the responses.create command broken, or is this error just about my OpenAI account credits?","It’s most likely **an account quota/credits issue**, not that `responses.create` is broken.
+
+The context says `responses.create` can fail with:
+
+- **`OpenAI API Error: Insufficient credits`**
+- or **`RateLimitError: 429`** with **`insufficient_quota`**
+
+That means you need to:
+
+1. **Add credits / enable billing** on your OpenAI account
+2. Make sure you’re using a **model available to your account**
+3. If needed, **recreate your API key** after adding credits
+
+So: **the command itself is fine; the error is about your OpenAI account credits/quota.**","You may receive the following error when running the OpenAI `responses.create` command due to insufficient credits in your OpenAI account:
+
+```
+OpenAI API Error: Insufficient credits
+```",f5df151c59
+Why am I seeing an insufficient credits error from OpenAI when testing responses.create in Module 1 RAG?,"You’re seeing that error because your OpenAI account doesn’t have enough credits to run `responses.create`.
+
+The course notes say this can happen with:
+
+```text
+OpenAI API Error: Insufficient credits
+```
+
+To fix it, add credits to your OpenAI account and make sure your API key and model are valid. The course also notes that OpenAI’s typical quota error is a **429 insufficient_quota** error, which means the account needs funding.
+
+If you’re actually using **OpenRouter** in Module 1 RAG/homework, then the issue can also be caused by not setting `max_output_tokens`, and you should lower it, for example:
+
+```python
+response = client.responses.create(
+    model=os.environ[""OPENAI_MODEL""],
+    input=message_history,
+    max_output_tokens=1024,
+)
+```
+
+If you want, I can help you figure out whether you’re hitting **OpenAI credit limits** or an **OpenRouter 402/max_output_tokens** issue.","You may receive the following error when running the OpenAI `responses.create` command due to insufficient credits in your OpenAI account:
+
+```
+OpenAI API Error: Insufficient credits
+```",f5df151c59
+Why am I getting a 429 RateLimitError from OpenAI even though my code looks fine?,"You’re likely seeing a 429 because of **quota/billing**, not because your code is wrong.
+
+If the error says **`insufficient_quota`**, that means your OpenAI account has run out of credits or doesn’t have billing set up. There is **no free API usage**, so you need to:
+
+1. Add credits to your OpenAI account.
+2. Make sure you’re using a model available to your account.
+3. If needed, recreate your API key after enabling billing.
+
+If you’re instead hitting normal rate limits during the course, you can reduce API calls, lower concurrency, cache results, or use retries/backoff.","```json
+RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: [https://platform.openai.com/docs/guides/error-codes/api-errors.](https://platform.openai.com/docs/guides/error-codes/api-errors.)', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}
+```
+
+The above errors are related to your OpenAI API account’s quota. There is no free usage of OpenAI’s API, so you will need to add funds using a credit card (see pay-as-you-go in the OpenAI settings at [platform.openai.com](http://platform.openai.com)). Once added, re-run your Python command and you should receive a successful return code.
+
+Steps to resolve:
+
+1. Add credits to your account [here](https://platform.openai.com/settings/organization/billing/overview) (min $5).
+2. In `responses.create(model='gpt-4o', …)` specify one of the models available to you:
+
+   <{IMAGE:image_1}>
+
+3. You might need to recreate an API key after adding credits to your account and update it locally.",152af39a53
+"Does OpenAI API have any free quota, or do I need to add billing before using it?","There is **no free usage of the OpenAI API** in this context. You’ll need to **add billing / credits** before using it.
+
+If you don’t want to pay, you can use a **free or low-cost alternative provider** instead.","```json
+RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: [https://platform.openai.com/docs/guides/error-codes/api-errors.](https://platform.openai.com/docs/guides/error-codes/api-errors.)', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}
+```
+
+The above errors are related to your OpenAI API account’s quota. There is no free usage of OpenAI’s API, so you will need to add funds using a credit card (see pay-as-you-go in the OpenAI settings at [platform.openai.com](http://platform.openai.com)). Once added, re-run your Python command and you should receive a successful return code.
+
+Steps to resolve:
+
+1. Add credits to your account [here](https://platform.openai.com/settings/organization/billing/overview) (min $5).
+2. In `responses.create(model='gpt-4o', …)` specify one of the models available to you:
+
+   <{IMAGE:image_1}>
+
+3. You might need to recreate an API key after adding credits to your account and update it locally.",152af39a53
+"What should I check in my OpenAI account when I see an ""insufficient_quota"" error?","Check your OpenAI **billing/credits** and make sure your account has enough funds. The `insufficient_quota` error usually means:
+
+- you **don’t have active billing** or
+- you’ve **run out of credits/quota**
+
+Specifically, you should:
+
+1. Go to your OpenAI billing overview and **add credits** (minimum $5).
+2. Verify your **plan and billing details** are active.
+3. If needed, **create a new API key** after adding credits and update it locally.
+
+","```json
+RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: [https://platform.openai.com/docs/guides/error-codes/api-errors.](https://platform.openai.com/docs/guides/error-codes/api-errors.)', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}
+```
+
+The above errors are related to your OpenAI API account’s quota. There is no free usage of OpenAI’s API, so you will need to add funds using a credit card (see pay-as-you-go in the OpenAI settings at [platform.openai.com](http://platform.openai.com)). Once added, re-run your Python command and you should receive a successful return code.
+
+Steps to resolve:
+
+1. Add credits to your account [here](https://platform.openai.com/settings/organization/billing/overview) (min $5).
+2. In `responses.create(model='gpt-4o', …)` specify one of the models available to you:
+
+   <{IMAGE:image_1}>
+
+3. You might need to recreate an API key after adding credits to your account and update it locally.",152af39a53
+"After adding credits, do I need to make a new API key or can I keep the old one?",I don't know.,"```json
+RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: [https://platform.openai.com/docs/guides/error-codes/api-errors.](https://platform.openai.com/docs/guides/error-codes/api-errors.)', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}
+```
+
+The above errors are related to your OpenAI API account’s quota. There is no free usage of OpenAI’s API, so you will need to add funds using a credit card (see pay-as-you-go in the OpenAI settings at [platform.openai.com](http://platform.openai.com)). Once added, re-run your Python command and you should receive a successful return code.
+
+Steps to resolve:
+
+1. Add credits to your account [here](https://platform.openai.com/settings/organization/billing/overview) (min $5).
+2. In `responses.create(model='gpt-4o', …)` specify one of the models available to you:
+
+   <{IMAGE:image_1}>
+
+3. You might need to recreate an API key after adding credits to your account and update it locally.",152af39a53
+"How do I fix the quota error when calling `responses.create(model='gpt-4o', ...)`?","Add a lower `max_output_tokens` value to your `responses.create()` call, for example:
+
+```python
+response = client.responses.create(
+    model='gpt-4o',
+    input=message_history,
+    max_output_tokens=1024,
+)
+```
+
+If you're using the Module 1 homework `rag_helper.py`, add the same parameter inside `llm()`.
+
+Also make sure your `.env` is pointed at OpenRouter if that's what you're using, and that your key has credits/limits remaining.","```json
+RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: [https://platform.openai.com/docs/guides/error-codes/api-errors.](https://platform.openai.com/docs/guides/error-codes/api-errors.)', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}
+```
+
+The above errors are related to your OpenAI API account’s quota. There is no free usage of OpenAI’s API, so you will need to add funds using a credit card (see pay-as-you-go in the OpenAI settings at [platform.openai.com](http://platform.openai.com)). Once added, re-run your Python command and you should receive a successful return code.
+
+Steps to resolve:
+
+1. Add credits to your account [here](https://platform.openai.com/settings/organization/billing/overview) (min $5).
+2. In `responses.create(model='gpt-4o', …)` specify one of the models available to you:
+
+   <{IMAGE:image_1}>
+
+3. You might need to recreate an API key after adding credits to your account and update it locally.",152af39a53
+How much money do I need to spend to start using the OpenAI API for this course?,"Using the OpenAI API for the course should cost very little. You can recharge starting from **$5**, and initial usage is usually **fractions of a cent**.","Using the OpenAI API for the course should cost very little. You can recharge starting from $5, but initial usage is usually fractions of one cent.",554d0eb78b
+Is it true that the OpenAI API costs almost nothing when I use it for the course exercises?,"No. The context says you **don’t have to pay for OpenAI API** to complete the course homeworks, and you can use **free or low-cost alternatives** instead.
+
+It also mentions that if you use OpenAI and get an **“Insufficient credits”** error, that means your account doesn’t have enough credits.","Using the OpenAI API for the course should cost very little. You can recharge starting from $5, but initial usage is usually fractions of one cent.",554d0eb78b
+"Do I have to add a lot of credit before I can try the OpenAI API, or is a small top-up enough?","A small top-up is enough. The course notes say you can recharge starting from **$5**, and usage is usually just fractions of a cent.","Using the OpenAI API for the course should cost very little. You can recharge starting from $5, but initial usage is usually fractions of one cent.",554d0eb78b
+"What is the minimum amount I can recharge on OpenAI, and is that enough for the course?","The minimum you can recharge on OpenAI is **$5**.  
+
+Yes, that should be **enough for the course** — the course notes say usage is usually **fractions of a cent**, and you don’t even have to pay for OpenAI specifically to complete the homeworks, since free or low-cost alternatives are available.","Using the OpenAI API for the course should cost very little. You can recharge starting from $5, but initial usage is usually fractions of one cent.",554d0eb78b
+"Roughly how expensive is it to use the OpenAI API during the course, and what starting credit do people usually add?",Using the OpenAI API during the course should cost very little — usually just fractions of a cent to start. People typically add a starting credit of **$5**.,"Using the OpenAI API for the course should cost very little. You can recharge starting from $5, but initial usage is usually fractions of one cent.",554d0eb78b
+Do I need to subscribe to the OpenAI API to finish the homework in this course?,"No. You don’t need to subscribe and pay for the OpenAI API to complete the homework.
+
+You can use free or low-cost alternatives, or even a local model, and the course is not tied to OpenAI.","No, you don't have to pay for this service in order to complete the course homeworks. You can use free or low-cost alternatives listed in the course GitHub repo.
+
+See the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives).",85384a18e5
+Will I have to pay for OpenAI access for the assignments in module 1?,"No, you don’t have to pay for OpenAI access to complete the Module 1 assignments. You can use free or low-cost alternatives from the course repo instead.","No, you don't have to pay for this service in order to complete the course homeworks. You can use free or low-cost alternatives listed in the course GitHub repo.
+
+See the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives).",85384a18e5
+Are there free or cheaper options I can use instead of the OpenAI API for this course?,"Yes. You don’t have to pay for the OpenAI API to complete the course homework.
+
+You can use free or low-cost alternatives from the course repo, including:
+
+- Hosted OpenAI-compatible providers like Groq, OpenRouter, DeepSeek, Gemini, Z.ai, and Mistral
+- Open models via Hugging Face, such as Qwen or Llama
+- Local serving tools like Ollama, vLLM, or LM Studio
+- Your own GPU server if needed
+
+The course is not tied to OpenAI, so any provider with an OpenAI-compatible endpoint, or a locally served model, should work.","No, you don't have to pay for this service in order to complete the course homeworks. You can use free or low-cost alternatives listed in the course GitHub repo.
+
+See the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives).",85384a18e5
+Can I complete the course without paying for OpenAI services?,"Yes. You do **not** have to pay for OpenAI services to complete the course homework. You can use free or low-cost alternatives listed in the course repo, or even use another LLM provider or a locally served model instead.","No, you don't have to pay for this service in order to complete the course homeworks. You can use free or low-cost alternatives listed in the course GitHub repo.
+
+See the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives).",85384a18e5
+Where can I find alternatives to the OpenAI API for the LLM Zoomcamp?,"You can find them in the course GitHub repo, under the **OpenAI API alternatives** list:
+
+https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives
+
+","No, you don't have to pay for this service in order to complete the course homeworks. You can use free or low-cost alternatives listed in the course GitHub repo.
+
+See the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives).",85384a18e5
+Why does the course recommend using uv instead of pip and virtualenv?,"The course recommends `uv` because it’s **fast and convenient**. It’s an all-in-one tool that can replace `pip` and `virtualenv` along with several other Python tools, so you don’t have to juggle multiple commands. It also supports **reproducible lockfiles** and makes managing Python versions, virtual environments, and dependencies simpler.
+
+You **don’t have to use it**—`pip` and `virtualenv` still work fine—but `uv` makes the setup quicker and easier, which is why the lessons use it.","The course uses uv because it's fast and convenient. It's an all-in-one tool that replaces pip, virtualenv, pip-tools, pipx, poetry, pyenv, and twine — instead of juggling several tools, you manage Python versions, virtual environments, and dependencies through one fast command with reproducible lockfiles.
+
+You're not required to use it — pip and virtualenv still work fine — but uv makes the setup simpler and faster, which is why the lessons use it.
+
+Official docs: https://docs.astral.sh/uv/",f81dea8f7e
+What makes uv better or easier than the usual Python setup tools?,"`uv` is better mainly because it’s **faster and more convenient** than the usual Python setup.
+
+From the context, it’s an **all-in-one tool** that can replace several separate tools:
+
+- `pip`
+- `virtualenv`
+- `pip-tools`
+- `pipx`
+- `poetry`
+- `pyenv`
+- `twine`
+
+So instead of juggling multiple commands and tools, you can manage:
+
+- Python versions
+- virtual environments
+- dependencies
+- reproducible lockfiles
+
+all through one fast command.
+
+You **don’t have to use it** — `pip` and `virtualenv` still work — but `uv` makes setup **simpler and quicker**, which is why the course uses it.","The course uses uv because it's fast and convenient. It's an all-in-one tool that replaces pip, virtualenv, pip-tools, pipx, poetry, pyenv, and twine — instead of juggling several tools, you manage Python versions, virtual environments, and dependencies through one fast command with reproducible lockfiles.
+
+You're not required to use it — pip and virtualenv still work fine — but uv makes the setup simpler and faster, which is why the lessons use it.
+
+Official docs: https://docs.astral.sh/uv/",f81dea8f7e
+"Do I have to use uv in this course, or can I still use pip and virtualenv?","No — you’re not required to use `uv`. You can still use `pip` and `virtualenv`; they work fine.
+
+The course uses `uv` because it’s faster and more convenient, but it’s optional.","The course uses uv because it's fast and convenient. It's an all-in-one tool that replaces pip, virtualenv, pip-tools, pipx, poetry, pyenv, and twine — instead of juggling several tools, you manage Python versions, virtual environments, and dependencies through one fast command with reproducible lockfiles.
+
+You're not required to use it — pip and virtualenv still work fine — but uv makes the setup simpler and faster, which is why the lessons use it.
+
+Official docs: https://docs.astral.sh/uv/",f81dea8f7e
+"What does uv replace in a Python workflow, and why is that useful?","`uv` replaces a bunch of separate Python workflow tools: `pip`, `virtualenv`, `pip-tools`, `pipx`, `poetry`, `pyenv`, and `twine`.
+
+That’s useful because instead of juggling multiple commands and tools, you can manage Python versions, virtual environments, and dependencies in one fast tool with reproducible lockfiles.","The course uses uv because it's fast and convenient. It's an all-in-one tool that replaces pip, virtualenv, pip-tools, pipx, poetry, pyenv, and twine — instead of juggling several tools, you manage Python versions, virtual environments, and dependencies through one fast command with reproducible lockfiles.
+
+You're not required to use it — pip and virtualenv still work fine — but uv makes the setup simpler and faster, which is why the lessons use it.
+
+Official docs: https://docs.astral.sh/uv/",f81dea8f7e
+Why is uv used in the lessons for managing environments and dependencies?,"The lessons use **uv** because it’s **fast and convenient**. It lets you manage:
+
+- Python versions
+- virtual environments
+- dependencies
+- reproducible lockfiles
+
+all with one tool, instead of juggling multiple ones like `pip`, `virtualenv`, `pip-tools`, `pipx`, `poetry`, `pyenv`, and `twine`.
+
+You **don’t have to use it** — `pip` and `virtualenv` still work — but `uv` makes setup simpler and faster, which is why it’s used in the course.","The course uses uv because it's fast and convenient. It's an all-in-one tool that replaces pip, virtualenv, pip-tools, pipx, poetry, pyenv, and twine — instead of juggling several tools, you manage Python versions, virtual environments, and dependencies through one fast command with reproducible lockfiles.
+
+You're not required to use it — pip and virtualenv still work fine — but uv makes the setup simpler and faster, which is why the lessons use it.
+
+Official docs: https://docs.astral.sh/uv/",f81dea8f7e
+"Why does my Jupyter notebook keep saying OPENAI_API_KEY is missing, even though I put it in a .env file?","Make sure you’ve installed and used `python-dotenv`, then load the `.env` file in your notebook before creating the OpenAI client:
+
+```bash
+pip install python-dotenv
+```
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+Also check that the variable name in `.env` is exactly `OPENAI_API_KEY`.","Make sure you installed and used `python-dotenv`.
+
+```bash
+pip install python-dotenv
+```
+
+Then load the `.env` file in the notebook before creating the OpenAI client:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+Also check that the variable name in `.env` is exactly `OPENAI_API_KEY`.",86d99bbf21
+"Do I need python-dotenv for the API key to show up in notebooks, or is there another way?","Yes — for notebooks, the documented way is to use `python-dotenv` and call `load_dotenv()` before creating the client.
+
+Example:
+
+```python
+from dotenv import load_dotenv
+load_dotenv()
+```
+
+Also make sure your `.env` file contains `OPENAI_API_KEY` exactly.
+
+I don’t know of another way from the provided context.","Make sure you installed and used `python-dotenv`.
+
+```bash
+pip install python-dotenv
+```
+
+Then load the `.env` file in the notebook before creating the OpenAI client:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+Also check that the variable name in `.env` is exactly `OPENAI_API_KEY`.",86d99bbf21
+Where should I load the .env file before creating the OpenAI client in Jupyter?,"Load the `.env` file in the notebook **before creating the OpenAI client**:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+So the order should be:
+1. `pip install python-dotenv` if needed
+2. `from dotenv import load_dotenv`
+3. `load_dotenv()`
+4. create the OpenAI client
+
+","Make sure you installed and used `python-dotenv`.
+
+```bash
+pip install python-dotenv
+```
+
+Then load the `.env` file in the notebook before creating the OpenAI client:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+Also check that the variable name in `.env` is exactly `OPENAI_API_KEY`.",86d99bbf21
+What’s the correct environment variable name for the OpenAI key in the .env file?,`OPENAI_API_KEY`,"Make sure you installed and used `python-dotenv`.
+
+```bash
+pip install python-dotenv
+```
+
+Then load the `.env` file in the notebook before creating the OpenAI client:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+Also check that the variable name in `.env` is exactly `OPENAI_API_KEY`.",86d99bbf21
+"I already set the key, but the notebook still can’t see it — what am I missing?",I don't know.,"Make sure you installed and used `python-dotenv`.
+
+```bash
+pip install python-dotenv
+```
+
+Then load the `.env` file in the notebook before creating the OpenAI client:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+Also check that the variable name in `.env` is exactly `OPENAI_API_KEY`.",86d99bbf21
+How do I keep my API keys out of GitHub when working with this project?,"Keep your API keys in a local `.env` file, not in GitHub.
+
+What to do:
+- Add `.env` to `.gitignore`
+- Create a `.env.example` file with only the variable names, no secret values
+- Have each user create their own `.env` locally
+- Load the values in code with `python-dotenv`
+
+Example:
+
+```gitignore
+.env
+```
+
+```bash
+# .env.example
+OPENAI_API_KEY=
+GROQ_API_KEY=
+GEMINI_API_KEY=
+```
+
+```python
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+```
+
+So: never commit API keys or hosted-service credentials to the repo. Reviewers should use their own credentials.","Store API keys in a `.env` file and load them with `python-dotenv`, as recommended in the course.
+
+Add `.env` to `.gitignore` so keys are never committed:
+
+```gitignore
+.env
+```
+
+Create a `.env` file:
+
+```bash
+OPENAI_API_KEY=sk-...
+GROQ_API_KEY=gsk_...
+GEMINI_API_KEY=...
+```
+
+Install `python-dotenv` if needed:
+
+```bash
+pip install python-dotenv
+```
+
+Load the keys in Python:
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+groq_api_key = os.getenv(""GROQ_API_KEY"")
+```",233dabe430
+What's the easiest way to load keys from a .env file in Python?,"Use `python-dotenv`:
+
+```bash
+pip install python-dotenv
+```
+
+```python
+from dotenv import load_dotenv
+load_dotenv()  # loads .env from project root
+```
+
+Then read values with:
+
+```python
+import os
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+```","Store API keys in a `.env` file and load them with `python-dotenv`, as recommended in the course.
+
+Add `.env` to `.gitignore` so keys are never committed:
+
+```gitignore
+.env
+```
+
+Create a `.env` file:
+
+```bash
+OPENAI_API_KEY=sk-...
+GROQ_API_KEY=gsk_...
+GEMINI_API_KEY=...
+```
+
+Install `python-dotenv` if needed:
+
+```bash
+pip install python-dotenv
+```
+
+Load the keys in Python:
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+groq_api_key = os.getenv(""GROQ_API_KEY"")
+```",233dabe430
+Do I need to install anything extra to read environment variables from .env?,"Yes — if needed, install `python-dotenv`:
+
+```bash
+pip install python-dotenv
+```
+
+Then you can load variables from `.env` with:
+
+```python
+from dotenv import load_dotenv
+load_dotenv()
+```","Store API keys in a `.env` file and load them with `python-dotenv`, as recommended in the course.
+
+Add `.env` to `.gitignore` so keys are never committed:
+
+```gitignore
+.env
+```
+
+Create a `.env` file:
+
+```bash
+OPENAI_API_KEY=sk-...
+GROQ_API_KEY=gsk_...
+GEMINI_API_KEY=...
+```
+
+Install `python-dotenv` if needed:
+
+```bash
+pip install python-dotenv
+```
+
+Load the keys in Python:
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+groq_api_key = os.getenv(""GROQ_API_KEY"")
+```",233dabe430
+"Can I store OpenAI, Groq, and Gemini keys in the same .env file?","Yes. You can store `OPENAI_API_KEY`, `GROQ_API_KEY`, and `GEMINI_API_KEY` in the same `.env` file.
+
+Example:
+
+```bash
+OPENAI_API_KEY=sk-...
+GROQ_API_KEY=gsk_...
+GEMINI_API_KEY=...
+```
+
+Then load them in Python with `python-dotenv`:
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+groq_api_key = os.getenv(""GROQ_API_KEY"")
+gemini_api_key = os.getenv(""GEMINI_API_KEY"")
+```
+
+Also make sure `.env` is in your `.gitignore` so the keys are not committed.","Store API keys in a `.env` file and load them with `python-dotenv`, as recommended in the course.
+
+Add `.env` to `.gitignore` so keys are never committed:
+
+```gitignore
+.env
+```
+
+Create a `.env` file:
+
+```bash
+OPENAI_API_KEY=sk-...
+GROQ_API_KEY=gsk_...
+GEMINI_API_KEY=...
+```
+
+Install `python-dotenv` if needed:
+
+```bash
+pip install python-dotenv
+```
+
+Load the keys in Python:
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+groq_api_key = os.getenv(""GROQ_API_KEY"")
+```",233dabe430
+What code should I use to read an API key from .env after loading it?,"Use this code after loading the `.env` file:
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+api_key = os.getenv(""OPENAI_API_KEY"")
+```
+
+If you mean a different key, replace `OPENAI_API_KEY` with the corresponding variable name, like `GROQ_API_KEY` or `GOOGLE_API_KEY`.","Store API keys in a `.env` file and load them with `python-dotenv`, as recommended in the course.
+
+Add `.env` to `.gitignore` so keys are never committed:
+
+```gitignore
+.env
+```
+
+Create a `.env` file:
+
+```bash
+OPENAI_API_KEY=sk-...
+GROQ_API_KEY=gsk_...
+GEMINI_API_KEY=...
+```
+
+Install `python-dotenv` if needed:
+
+```bash
+pip install python-dotenv
+```
+
+Load the keys in Python:
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+openai_api_key = os.getenv(""OPENAI_API_KEY"")
+groq_api_key = os.getenv(""GROQ_API_KEY"")
+```",233dabe430
+Can I do the homework with a different LLM provider instead of the one suggested?,"Yes. The recommended model/provider is not mandatory — you can use a different LLM provider, including OpenAI-compatible options like Groq, OpenRouter, Gemini, Azure OpenAI, local models, or others. You may need to adapt the code for response formats, tool schemas, and tokenization.","Yes. The recommended model is not mandatory. You can use OpenAI, Gemini, Groq, OpenRouter, Azure OpenAI, local models, or another provider.
+
+The homework is designed so you do not need a paid service. You may need to adapt the code for your provider, because response formats, tool schemas, and tokenizers differ.
+
+For provider ideas, see the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md).",ee43413718
+"Is it okay to use Gemini, Groq, OpenRouter, Azure OpenAI, or even a local model for the assignment?","Yes — that’s okay. The course allows using Gemini, Groq, OpenRouter, Azure OpenAI, or even a local model. The recommended model/provider is not mandatory.
+
+You may need to adjust the code a bit because different providers can have different response formats, tool schemas, and tokenizers.","Yes. The recommended model is not mandatory. You can use OpenAI, Gemini, Groq, OpenRouter, Azure OpenAI, local models, or another provider.
+
+The homework is designed so you do not need a paid service. You may need to adapt the code for your provider, because response formats, tool schemas, and tokenizers differ.
+
+For provider ideas, see the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md).",ee43413718
+"Do I have to pay for a model API to finish the homework, or can I avoid a paid service?","No — you don’t have to pay for a model API to finish the homework. The course is designed so you can use free or low-cost alternatives, including local models or other providers.","Yes. The recommended model is not mandatory. You can use OpenAI, Gemini, Groq, OpenRouter, Azure OpenAI, local models, or another provider.
+
+The homework is designed so you do not need a paid service. You may need to adapt the code for your provider, because response formats, tool schemas, and tokenizers differ.
+
+For provider ideas, see the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md).",ee43413718
+Will I need to change the code if I switch to another provider for the RAG homework?,"Yes, probably.
+
+If you switch to another provider for the RAG homework, you may need to adapt the code because providers can differ in:
+
+- response formats
+- tool schemas
+- tokenizers
+
+The course code is not tied to OpenAI, and you can use another provider, but some code changes may be needed depending on which one you choose.","Yes. The recommended model is not mandatory. You can use OpenAI, Gemini, Groq, OpenRouter, Azure OpenAI, local models, or another provider.
+
+The homework is designed so you do not need a paid service. You may need to adapt the code for your provider, because response formats, tool schemas, and tokenizers differ.
+
+For provider ideas, see the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md).",ee43413718
+Where can I find a list of OpenAI API alternatives recommended for the course?,You can find the list in the course GitHub repo here: [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives).,"Yes. The recommended model is not mandatory. You can use OpenAI, Gemini, Groq, OpenRouter, Azure OpenAI, local models, or another provider.
+
+The homework is designed so you do not need a paid service. You may need to adapt the code for your provider, because response formats, tool schemas, and tokenizers differ.
+
+For provider ideas, see the course list of [OpenAI API alternatives](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md).",ee43413718
+What do I need to set up before I can call Gemini from the Module 1 RAG notebook using the OpenAI-style API?,"You need three things set up before calling Gemini from the Module 1 RAG notebook with the OpenAI-style API:
+
+1. A Gemini API key in your `.env` file, for example `GEMINI_API_KEY`
+2. An OpenAI client configured with Google’s OpenAI-compatible base URL:
+   `https://generativelanguage.googleapis.com/v1beta/openai/`
+3. The Gemini model name in your request, such as `gemini-3.1-flash-lite`
+
+Also, since this uses the older chat-completions style, you may need to adjust notebook code where it reads model output or handles tools/function calls.","To get started you need three things:
+
+1. A Gemini API key saved in your `.env` file, for example as `GEMINI_API_KEY`.
+2. An OpenAI client pointed at Google’s OpenAI-compatible base URL.
+3. Your selected Google Gemini model name in your request.
+
+Example code (loads the API key from `.env`, creates the Gemini client, and defines the `llm` helper):
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+def llm(instructions, user_prompt, model=""gemini-3.1-flash-lite""):
+    message_history = [
+        {""role"": ""developer"", ""content"": instructions},
+        {""role"": ""user"", ""content"": user_prompt}
+    ]
+
+    response = client.chat.completions.create(
+        model=model,
+        messages=message_history
+    )
+
+    return response.choices[0].message.content
+```
+
+This uses the older chat completions style via the OpenAI-compatible endpoint, whereas many course examples use the newer Responses format. That means you will need to change the notebook code in a few places, especially where it reads the model response and where it handles tools or function calls.",0ae5c221b9
+How do I point an OpenAI client to Google’s Gemini endpoint and pass my API key from a .env file?,"Use the OpenAI client with Google’s OpenAI-compatible base URL and load the key from your `.env` file like this:
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+```
+
+Then call Gemini by model name, for example:
+
+```python
+response = client.chat.completions.create(
+    model=""gemini-3.1-flash-lite"",
+    messages=[
+        {""role"": ""developer"", ""content"": ""You are a helpful assistant.""},
+        {""role"": ""user"", ""content"": ""Hello!""}
+    ]
+)
+```
+
+Make sure your `.env` contains:
+
+```dotenv
+GEMINI_API_KEY=your-api-key-here
+```
+
+And load it with `python-dotenv` using `load_dotenv()`.","To get started you need three things:
+
+1. A Gemini API key saved in your `.env` file, for example as `GEMINI_API_KEY`.
+2. An OpenAI client pointed at Google’s OpenAI-compatible base URL.
+3. Your selected Google Gemini model name in your request.
+
+Example code (loads the API key from `.env`, creates the Gemini client, and defines the `llm` helper):
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+def llm(instructions, user_prompt, model=""gemini-3.1-flash-lite""):
+    message_history = [
+        {""role"": ""developer"", ""content"": instructions},
+        {""role"": ""user"", ""content"": user_prompt}
+    ]
+
+    response = client.chat.completions.create(
+        model=model,
+        messages=message_history
+    )
+
+    return response.choices[0].message.content
+```
+
+This uses the older chat completions style via the OpenAI-compatible endpoint, whereas many course examples use the newer Responses format. That means you will need to change the notebook code in a few places, especially where it reads the model response and where it handles tools or function calls.",0ae5c221b9
+What’s the right way to write the helper function for chatting with a Gemini model in the notebook?,"Use the OpenAI-compatible client with Google’s Gemini base URL, then define `llm` like this:
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+def llm(instructions, user_prompt, model=""gemini-3.1-flash-lite""):
+    message_history = [
+        {""role"": ""developer"", ""content"": instructions},
+        {""role"": ""user"", ""content"": user_prompt}
+    ]
+
+    response = client.chat.completions.create(
+        model=model,
+        messages=message_history
+    )
+
+    return response.choices[0].message.content
+```
+
+This is the right helper for the notebook when using the older chat-completions style with Gemini.","To get started you need three things:
+
+1. A Gemini API key saved in your `.env` file, for example as `GEMINI_API_KEY`.
+2. An OpenAI client pointed at Google’s OpenAI-compatible base URL.
+3. Your selected Google Gemini model name in your request.
+
+Example code (loads the API key from `.env`, creates the Gemini client, and defines the `llm` helper):
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+def llm(instructions, user_prompt, model=""gemini-3.1-flash-lite""):
+    message_history = [
+        {""role"": ""developer"", ""content"": instructions},
+        {""role"": ""user"", ""content"": user_prompt}
+    ]
+
+    response = client.chat.completions.create(
+        model=model,
+        messages=message_history
+    )
+
+    return response.choices[0].message.content
+```
+
+This uses the older chat completions style via the OpenAI-compatible endpoint, whereas many course examples use the newer Responses format. That means you will need to change the notebook code in a few places, especially where it reads the model response and where it handles tools or function calls.",0ae5c221b9
+Which Gemini model name should I put in the request when using the OpenAI-compatible endpoint?,"Use the Gemini model name in the `model` parameter, for example:
+
+```python
+model=""gemini-3.1-flash-lite""
+```
+
+The context also shows `gemini-3.5-flash` as another valid example. If a model gives a 404, you should replace it with one that’s currently available to your account.","To get started you need three things:
+
+1. A Gemini API key saved in your `.env` file, for example as `GEMINI_API_KEY`.
+2. An OpenAI client pointed at Google’s OpenAI-compatible base URL.
+3. Your selected Google Gemini model name in your request.
+
+Example code (loads the API key from `.env`, creates the Gemini client, and defines the `llm` helper):
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+def llm(instructions, user_prompt, model=""gemini-3.1-flash-lite""):
+    message_history = [
+        {""role"": ""developer"", ""content"": instructions},
+        {""role"": ""user"", ""content"": user_prompt}
+    ]
+
+    response = client.chat.completions.create(
+        model=model,
+        messages=message_history
+    )
+
+    return response.choices[0].message.content
+```
+
+This uses the older chat completions style via the OpenAI-compatible endpoint, whereas many course examples use the newer Responses format. That means you will need to change the notebook code in a few places, especially where it reads the model response and where it handles tools or function calls.",0ae5c221b9
+Why do the course notebook examples need changes when I use Gemini instead of the newer Responses API?,"Because Gemini in the course examples is being used through the **OpenAI-compatible chat completions endpoint**, not through OpenAI’s newer **Responses API**.
+
+That means two important differences:
+
+- **Response reading changes**  
+  The Responses API uses things like `response.output`, but Gemini via the compatible endpoint returns content like:
+  ```python
+  response.choices[0].message.content
+  ```
+
+- **Tool/function-call handling may differ**  
+  The newer Responses API is OpenAI-specific, so if the notebook example was written for it, tool schemas and function-call parsing may need adjustment when using Gemini.
+
+So the notebook examples need changes because **Gemini is not using the same response format as the newer Responses API**.","To get started you need three things:
+
+1. A Gemini API key saved in your `.env` file, for example as `GEMINI_API_KEY`.
+2. An OpenAI client pointed at Google’s OpenAI-compatible base URL.
+3. Your selected Google Gemini model name in your request.
+
+Example code (loads the API key from `.env`, creates the Gemini client, and defines the `llm` helper):
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+def llm(instructions, user_prompt, model=""gemini-3.1-flash-lite""):
+    message_history = [
+        {""role"": ""developer"", ""content"": instructions},
+        {""role"": ""user"", ""content"": user_prompt}
+    ]
+
+    response = client.chat.completions.create(
+        model=model,
+        messages=message_history
+    )
+
+    return response.choices[0].message.content
+```
+
+This uses the older chat completions style via the OpenAI-compatible endpoint, whereas many course examples use the newer Responses format. That means you will need to change the notebook code in a few places, especially where it reads the model response and where it handles tools or function calls.",0ae5c221b9
+How do I get Pydantic structured output from Gemini if `responses.parse` isn’t available on the OpenAI-compatible endpoint?,"Use the OpenAI SDK’s **chat completions parsing flow** instead of the newer Responses API.
+
+With Gemini on the OpenAI-compatible endpoint, define a Pydantic model and call `client.chat.completions.parse(...)` with `response_format` set to that model:
+
+```python
+from pydantic import BaseModel
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+```
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+messages = [
+    {""role"": ""developer"", ""content"": ""Generate three FAQ questions about RAG.""},
+    {""role"": ""user"", ""content"": ""Topic: structured output with Gemini""}
+]
+
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+print(result.questions)
+```
+
+This gives you a parsed Pydantic object directly, without manual JSON parsing.","To get parsed structured output, use the OpenAI SDK's chat-completions parsing flow instead of the newer Responses API. This is the right choice when you want to stay on the OpenAI SDK but call a chat-completions-compatible model like Gemini through the OpenAI-compatible endpoint.
+
+First, define the structure you want Gemini to return as a Pydantic model:
+
+```python
+from pydantic import BaseModel
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+```
+
+Then call `chat.completions.parse` with `response_format=Questions`. Pass the same kind of `messages` you would to any chat completion:
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+messages = [
+    {""role"": ""developer"", ""content"": ""Generate three FAQ questions about RAG.""},
+    {""role"": ""user"", ""content"": ""Topic: structured output with Gemini""}
+]
+
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+print(result.questions)
+```
+
+Notes:
+- This approach keeps using the OpenAI SDK while leveraging Gemini through Google's endpoint.
+- The parsed output (e.g., `result.questions`) is a Pydantic object available directly, with no manual JSON parsing.
+- `chat.completions.parse` requires `pydantic` (`uv add pydantic`).",341f71f28c
+What’s the right OpenAI SDK method to use with Gemini chat completions when I want parsed objects back?,"Use **`client.chat.completions.parse(...)`** with `response_format=...`.
+
+That’s the OpenAI SDK method from the context for getting parsed Pydantic objects back when using Gemini through the OpenAI-compatible chat completions endpoint.
+
+Example:
+```python
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+```
+
+So: **`chat.completions.parse`**, not the newer Responses API.","To get parsed structured output, use the OpenAI SDK's chat-completions parsing flow instead of the newer Responses API. This is the right choice when you want to stay on the OpenAI SDK but call a chat-completions-compatible model like Gemini through the OpenAI-compatible endpoint.
+
+First, define the structure you want Gemini to return as a Pydantic model:
+
+```python
+from pydantic import BaseModel
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+```
+
+Then call `chat.completions.parse` with `response_format=Questions`. Pass the same kind of `messages` you would to any chat completion:
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+messages = [
+    {""role"": ""developer"", ""content"": ""Generate three FAQ questions about RAG.""},
+    {""role"": ""user"", ""content"": ""Topic: structured output with Gemini""}
+]
+
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+print(result.questions)
+```
+
+Notes:
+- This approach keeps using the OpenAI SDK while leveraging Gemini through Google's endpoint.
+- The parsed output (e.g., `result.questions`) is a Pydantic object available directly, with no manual JSON parsing.
+- `chat.completions.parse` requires `pydantic` (`uv add pydantic`).",341f71f28c
+Can I define a Pydantic model and have Gemini return it directly through `chat.completions.parse`?,"Yes — you can define a Pydantic model and pass it to `chat.completions.parse`, and Gemini can return parsed structured output directly through the OpenAI-compatible endpoint.
+
+Example:
+
+```python
+from pydantic import BaseModel
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+```
+
+Then:
+
+```python
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+```
+
+So yes, you can get the Pydantic object directly with no manual JSON parsing.","To get parsed structured output, use the OpenAI SDK's chat-completions parsing flow instead of the newer Responses API. This is the right choice when you want to stay on the OpenAI SDK but call a chat-completions-compatible model like Gemini through the OpenAI-compatible endpoint.
+
+First, define the structure you want Gemini to return as a Pydantic model:
+
+```python
+from pydantic import BaseModel
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+```
+
+Then call `chat.completions.parse` with `response_format=Questions`. Pass the same kind of `messages` you would to any chat completion:
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+messages = [
+    {""role"": ""developer"", ""content"": ""Generate three FAQ questions about RAG.""},
+    {""role"": ""user"", ""content"": ""Topic: structured output with Gemini""}
+]
+
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+print(result.questions)
+```
+
+Notes:
+- This approach keeps using the OpenAI SDK while leveraging Gemini through Google's endpoint.
+- The parsed output (e.g., `result.questions`) is a Pydantic object available directly, with no manual JSON parsing.
+- `chat.completions.parse` requires `pydantic` (`uv add pydantic`).",341f71f28c
+How should I set up `response_format` so Gemini gives me a parsed FAQ list instead of raw JSON?,"Set Gemini’s `response_mime_type` to JSON and then parse the returned content as JSON, or use the OpenAI-compatible parsing flow with a Pydantic model if you want structured objects directly.
+
+For raw JSON output with Gemini, the equivalent is:
+
+```python
+response = client.chat.completions.create(
+    model=""gemini-3.1-flash-lite"",
+    messages=[{""role"": ""user"", ""content"": prompt}],
+    response_mime_type=""application/json"",
+)
+
+data = json.loads(response.choices[0].message.content)
+```
+
+Also make the prompt explicit about the shape you want, for example:
+
+```text
+Output a JSON object with a single key ""faq"" whose value is a list of FAQ items.
+Do not include any extra text, explanation, or formatting.
+```
+
+If you want a parsed FAQ list directly instead of manual JSON handling, use `chat.completions.parse` with a Pydantic model.","To get parsed structured output, use the OpenAI SDK's chat-completions parsing flow instead of the newer Responses API. This is the right choice when you want to stay on the OpenAI SDK but call a chat-completions-compatible model like Gemini through the OpenAI-compatible endpoint.
+
+First, define the structure you want Gemini to return as a Pydantic model:
+
+```python
+from pydantic import BaseModel
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+```
+
+Then call `chat.completions.parse` with `response_format=Questions`. Pass the same kind of `messages` you would to any chat completion:
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+messages = [
+    {""role"": ""developer"", ""content"": ""Generate three FAQ questions about RAG.""},
+    {""role"": ""user"", ""content"": ""Topic: structured output with Gemini""}
+]
+
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+print(result.questions)
+```
+
+Notes:
+- This approach keeps using the OpenAI SDK while leveraging Gemini through Google's endpoint.
+- The parsed output (e.g., `result.questions`) is a Pydantic object available directly, with no manual JSON parsing.
+- `chat.completions.parse` requires `pydantic` (`uv add pydantic`).",341f71f28c
+Is there a way to use the OpenAI SDK with Gemini’s OpenAI-compatible URL and still avoid manual JSON parsing?,"Yes. Use the OpenAI SDK’s **`chat.completions.parse`** flow with Gemini’s OpenAI-compatible endpoint. That lets you get a parsed Pydantic object directly, so you **don’t need manual JSON parsing**.
+
+Example:
+
+```python
+from pydantic import BaseModel
+from openai import OpenAI
+import os
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=[
+        {""role"": ""developer"", ""content"": ""Generate three FAQ questions about RAG.""},
+        {""role"": ""user"", ""content"": ""Topic: structured output with Gemini""}
+    ],
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+print(result.questions)
+```
+
+So the answer is: **yes, use `chat.completions.parse` instead of the newer Responses API**.","To get parsed structured output, use the OpenAI SDK's chat-completions parsing flow instead of the newer Responses API. This is the right choice when you want to stay on the OpenAI SDK but call a chat-completions-compatible model like Gemini through the OpenAI-compatible endpoint.
+
+First, define the structure you want Gemini to return as a Pydantic model:
+
+```python
+from pydantic import BaseModel
+
+class Question(BaseModel):
+    question: str
+    answer: str
+
+class Questions(BaseModel):
+    questions: list[Question]
+```
+
+Then call `chat.completions.parse` with `response_format=Questions`. Pass the same kind of `messages` you would to any chat completion:
+
+```python
+import os
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+client = OpenAI(
+    api_key=os.getenv(""GEMINI_API_KEY""),
+    base_url=""https://generativelanguage.googleapis.com/v1beta/openai/""
+)
+
+messages = [
+    {""role"": ""developer"", ""content"": ""Generate three FAQ questions about RAG.""},
+    {""role"": ""user"", ""content"": ""Topic: structured output with Gemini""}
+]
+
+response = client.chat.completions.parse(
+    model=""gemini-3.1-flash-lite"",
+    messages=messages,
+    response_format=Questions
+)
+
+result = response.choices[0].message.parsed
+print(result.questions)
+```
+
+Notes:
+- This approach keeps using the OpenAI SDK while leveraging Gemini through Google's endpoint.
+- The parsed output (e.g., `result.questions`) is a Pydantic object available directly, with no manual JSON parsing.
+- `chat.completions.parse` requires `pydantic` (`uv add pydantic`).",341f71f28c
+"How do I install Ollama on macOS, Windows, or Linux?","To install Ollama:
+
+- **macOS**: Download the `.pkg` from [https://ollama.com/download](https://ollama.com/download) and install it.
+- **Windows**: Download the `.msi` from [https://ollama.com/download](https://ollama.com/download) and install it.
+- **Linux**: Run this command in the terminal:
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```","First, install Ollama by visiting [https://ollama.com/download](https://ollama.com/download) and choosing your operating system:
+
+- **macOS**: Download the `.pkg` and install it.
+- **Windows**: Download the `.msi` and install it.
+- **Linux**: Run the following command in the terminal:
+
+  ```bash
+  curl -fsSL https://ollama.com/install.sh | sh
+  ```
+
+Once installed, open a terminal and type:
+
+```bash
+ollama run llama3
+```
+
+This command will:
+
+- Download the LLaMA 3 model (~4GB).
+- Start the model locally.
+- Open a chat-like interface where you can type questions.
+
+To test the Ollama local server, run the following command:
+
+```bash
+curl http://localhost:11434
+```
+
+You should receive a response similar to:
+
+```json
+{""models"": [...]}  
+```
+
+Then, install the Python client with:
+
+```bash
+pip install ollama
+```
+
+Here is a minimal Python example:
+
+```python
+import ollama
+
+response = ollama.chat(
+    model='llama3',
+    messages=[{""role"": ""user"", ""content"": your_prompt}]
+)
+
+print(response['message']['content'])
+```",1d0b969028
+What’s the easiest way to start Ollama after installing it?,"The easiest way is to open a terminal and run:
+
+```bash
+ollama run llama3
+```
+
+This will start Ollama, download the LLaMA 3 model if needed, and open a chat-like interface.","First, install Ollama by visiting [https://ollama.com/download](https://ollama.com/download) and choosing your operating system:
+
+- **macOS**: Download the `.pkg` and install it.
+- **Windows**: Download the `.msi` and install it.
+- **Linux**: Run the following command in the terminal:
+
+  ```bash
+  curl -fsSL https://ollama.com/install.sh | sh
+  ```
+
+Once installed, open a terminal and type:
+
+```bash
+ollama run llama3
+```
+
+This command will:
+
+- Download the LLaMA 3 model (~4GB).
+- Start the model locally.
+- Open a chat-like interface where you can type questions.
+
+To test the Ollama local server, run the following command:
+
+```bash
+curl http://localhost:11434
+```
+
+You should receive a response similar to:
+
+```json
+{""models"": [...]}  
+```
+
+Then, install the Python client with:
+
+```bash
+pip install ollama
+```
+
+Here is a minimal Python example:
+
+```python
+import ollama
+
+response = ollama.chat(
+    model='llama3',
+    messages=[{""role"": ""user"", ""content"": your_prompt}]
+)
+
+print(response['message']['content'])
+```",1d0b969028
+How can I check if the Ollama server is actually running on my machine?,"You can check it by running:
+
+```bash
+curl http://localhost:11434
+```
+
+If the Ollama server is running, you should get a response like:
+
+```json
+{""models"": [...]}  
+```
+
+If not, you may see a connection error.","First, install Ollama by visiting [https://ollama.com/download](https://ollama.com/download) and choosing your operating system:
+
+- **macOS**: Download the `.pkg` and install it.
+- **Windows**: Download the `.msi` and install it.
+- **Linux**: Run the following command in the terminal:
+
+  ```bash
+  curl -fsSL https://ollama.com/install.sh | sh
+  ```
+
+Once installed, open a terminal and type:
+
+```bash
+ollama run llama3
+```
+
+This command will:
+
+- Download the LLaMA 3 model (~4GB).
+- Start the model locally.
+- Open a chat-like interface where you can type questions.
+
+To test the Ollama local server, run the following command:
+
+```bash
+curl http://localhost:11434
+```
+
+You should receive a response similar to:
+
+```json
+{""models"": [...]}  
+```
+
+Then, install the Python client with:
+
+```bash
+pip install ollama
+```
+
+Here is a minimal Python example:
+
+```python
+import ollama
+
+response = ollama.chat(
+    model='llama3',
+    messages=[{""role"": ""user"", ""content"": your_prompt}]
+)
+
+print(response['message']['content'])
+```",1d0b969028
+Which command should I use to download and launch Llama 3 locally with Ollama?,"Use:
+
+```bash
+ollama run llama3
+```
+
+This will download Llama 3 and launch it locally in Ollama.","First, install Ollama by visiting [https://ollama.com/download](https://ollama.com/download) and choosing your operating system:
+
+- **macOS**: Download the `.pkg` and install it.
+- **Windows**: Download the `.msi` and install it.
+- **Linux**: Run the following command in the terminal:
+
+  ```bash
+  curl -fsSL https://ollama.com/install.sh | sh
+  ```
+
+Once installed, open a terminal and type:
+
+```bash
+ollama run llama3
+```
+
+This command will:
+
+- Download the LLaMA 3 model (~4GB).
+- Start the model locally.
+- Open a chat-like interface where you can type questions.
+
+To test the Ollama local server, run the following command:
+
+```bash
+curl http://localhost:11434
+```
+
+You should receive a response similar to:
+
+```json
+{""models"": [...]}  
+```
+
+Then, install the Python client with:
+
+```bash
+pip install ollama
+```
+
+Here is a minimal Python example:
+
+```python
+import ollama
+
+response = ollama.chat(
+    model='llama3',
+    messages=[{""role"": ""user"", ""content"": your_prompt}]
+)
+
+print(response['message']['content'])
+```",1d0b969028
+How do I use the Ollama Python package in a simple chat example?,"Here’s a simple Ollama Python chat example:
+
+```python
+import ollama
+
+response = ollama.chat(
+    model='llama3',
+    messages=[{""role"": ""user"", ""content"": ""Hello, how are you?""}]
+)
+
+print(response['message']['content'])
+```
+
+If you haven’t set it up yet:
+
+1. Install Ollama from https://ollama.com/download  
+2. Start a model locally:
+
+```bash
+ollama run llama3
+```
+
+3. Install the Python client:
+
+```bash
+pip install ollama
+```
+
+If you want, I can also show a version with a multi-turn chat loop.","First, install Ollama by visiting [https://ollama.com/download](https://ollama.com/download) and choosing your operating system:
+
+- **macOS**: Download the `.pkg` and install it.
+- **Windows**: Download the `.msi` and install it.
+- **Linux**: Run the following command in the terminal:
+
+  ```bash
+  curl -fsSL https://ollama.com/install.sh | sh
+  ```
+
+Once installed, open a terminal and type:
+
+```bash
+ollama run llama3
+```
+
+This command will:
+
+- Download the LLaMA 3 model (~4GB).
+- Start the model locally.
+- Open a chat-like interface where you can type questions.
+
+To test the Ollama local server, run the following command:
+
+```bash
+curl http://localhost:11434
+```
+
+You should receive a response similar to:
+
+```json
+{""models"": [...]}  
+```
+
+Then, install the Python client with:
+
+```bash
+pip install ollama
+```
+
+Here is a minimal Python example:
+
+```python
+import ollama
+
+response = ollama.chat(
+    model='llama3',
+    messages=[{""role"": ""user"", ""content"": your_prompt}]
+)
+
+print(response['message']['content'])
+```",1d0b969028
+How do I fix a connection refused error when I try prompting my Ollama RAG homework?,"Restart the Ollama server. Run:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+If you stopped and restarted the notebook cell, make sure to rerun the cell containing `ollama serve`.","If you encounter this error while doing the homework, you can resolve it by restarting the Ollama server using the following command:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+Make sure to rerun the cell containing `ollama serve` if you stop and restart the notebook cell.",c6fc2d4d11
+My Ollama server seems down in the notebook — what’s the quickest way to restart it?,"Restart it with:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+If you stop and restart the notebook cell, rerun the cell containing `ollama serve`.","If you encounter this error while doing the homework, you can resolve it by restarting the Ollama server using the following command:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+Make sure to rerun the cell containing `ollama serve` if you stop and restart the notebook cell.",c6fc2d4d11
+"After stopping the notebook cell, Ollama won’t respond anymore. Do I need to run the serve command again?","Yes — if you stop/restart the notebook cell, you should rerun the cell that starts `ollama serve`.
+
+If you get a connection refused error, restart the Ollama server with:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+Then try again.","If you encounter this error while doing the homework, you can resolve it by restarting the Ollama server using the following command:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+Make sure to rerun the cell containing `ollama serve` if you stop and restart the notebook cell.",c6fc2d4d11
+What command should I use to bring Ollama back up if I get a refused connection error?,"Use this command to restart Ollama:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+If needed, rerun the cell containing `ollama serve`.","If you encounter this error while doing the homework, you can resolve it by restarting the Ollama server using the following command:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+Make sure to rerun the cell containing `ollama serve` if you stop and restart the notebook cell.",c6fc2d4d11
+Is there a simple restart step for Ollama when the RAG exercise starts failing to connect?,"Yes — if Ollama starts failing to connect in the RAG exercise, restart the Ollama server with:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+If you stop and restart the notebook cell, rerun the cell containing `ollama serve`.","If you encounter this error while doing the homework, you can resolve it by restarting the Ollama server using the following command:
+
+```bash
+!nohup ollama serve > nohup.out 2>&1 &
+```
+
+Make sure to rerun the cell containing `ollama serve` if you stop and restart the notebook cell.",c6fc2d4d11
+Why do I get a different token count from OpenAI than from tiktoken when I check the same prompt?,"You can get a different count because OpenAI adds some **internal chat-formatting tokens** that `tiktoken` doesn’t include when you just encode the visible text.
+
+Specifically:
+
+- each chat message adds about **4 structural tokens** for things like role/content/separators
+- OpenAI also adds **2 tokens globally** to mark the start of assistant generation
+- extra whitespace, newlines, or some Unicode characters can also affect the count
+
+So even if `tiktoken` says your prompt is 320 tokens, OpenAI may report 327 because it counts those extra internal tokens too.","When using `tiktoken.encode()` to count tokens in your prompt, you might see a difference compared to OpenAI’s API response. For instance, you might get 320 tokens, while OpenAI reports 327. This is due to internal tokens added by OpenAI’s chat formatting.
+
+Here’s what happens:
+
+- Each message in a `chat.completions.create()` call (e.g., `{role: ""user"", content: ""...""}`) adds 4 structural tokens (role, content, separators).
+- The API adds 2 tokens globally to mark the start of assistant response generation.
+- Extra newlines, whitespace, or uncommon Unicode characters in your content may slightly increase the token count.
+
+Thus, even if your visible text is 320 tokens, OpenAI may count 327 due to these internal additions.",bf0403d21b
+Is it normal that my chat.completions token total is a bit higher than the visible text token count?,"Yes — that’s normal.
+
+`chat.completions.create()` can report a slightly higher `total_tokens` than the visible text alone because the API adds internal chat-formatting tokens:
+
+- about **4 tokens per message** for structure like role/content/separators
+- about **2 extra tokens** to mark the start of assistant generation
+- sometimes a few more due to whitespace or unusual Unicode
+
+So if your text looks like 320 tokens, seeing something like 327 in `chat.completions` is expected.","When using `tiktoken.encode()` to count tokens in your prompt, you might see a difference compared to OpenAI’s API response. For instance, you might get 320 tokens, while OpenAI reports 327. This is due to internal tokens added by OpenAI’s chat formatting.
+
+Here’s what happens:
+
+- Each message in a `chat.completions.create()` call (e.g., `{role: ""user"", content: ""...""}`) adds 4 structural tokens (role, content, separators).
+- The API adds 2 tokens globally to mark the start of assistant response generation.
+- Extra newlines, whitespace, or uncommon Unicode characters in your content may slightly increase the token count.
+
+Thus, even if your visible text is 320 tokens, OpenAI may count 327 due to these internal additions.",bf0403d21b
+What extra tokens does OpenAI add around each message in a chat completion request?,"OpenAI adds:
+
+- **4 structural tokens per message** in a `chat.completions.create()` request
+- **2 extra global tokens** to mark the start of the assistant’s response
+
+So each message gets 4 extra tokens around it, plus 2 more overall.","When using `tiktoken.encode()` to count tokens in your prompt, you might see a difference compared to OpenAI’s API response. For instance, you might get 320 tokens, while OpenAI reports 327. This is due to internal tokens added by OpenAI’s chat formatting.
+
+Here’s what happens:
+
+- Each message in a `chat.completions.create()` call (e.g., `{role: ""user"", content: ""...""}`) adds 4 structural tokens (role, content, separators).
+- The API adds 2 tokens globally to mark the start of assistant response generation.
+- Extra newlines, whitespace, or uncommon Unicode characters in your content may slightly increase the token count.
+
+Thus, even if your visible text is 320 tokens, OpenAI may count 327 due to these internal additions.",bf0403d21b
+Why does OpenAI report more tokens than the number I count in my prompt text?,"OpenAI reports more tokens because it adds internal chat-formatting tokens beyond the text you count yourself.
+
+Specifically:
+- Each chat message adds about 4 structural tokens for roles, separators, etc.
+- The API also adds 2 tokens globally to mark the start of assistant generation.
+- Extra whitespace, newlines, or unusual Unicode can add a few more tokens.
+
+So even if your prompt text looks like 320 tokens, OpenAI may report 327 because of these hidden formatting tokens.","When using `tiktoken.encode()` to count tokens in your prompt, you might see a difference compared to OpenAI’s API response. For instance, you might get 320 tokens, while OpenAI reports 327. This is due to internal tokens added by OpenAI’s chat formatting.
+
+Here’s what happens:
+
+- Each message in a `chat.completions.create()` call (e.g., `{role: ""user"", content: ""...""}`) adds 4 structural tokens (role, content, separators).
+- The API adds 2 tokens globally to mark the start of assistant response generation.
+- Extra newlines, whitespace, or uncommon Unicode characters in your content may slightly increase the token count.
+
+Thus, even if your visible text is 320 tokens, OpenAI may count 327 due to these internal additions.",bf0403d21b
+"Can whitespace, newlines, or weird unicode make the API token count larger than expected?","Yes. The context says extra newlines, whitespace, or uncommon Unicode characters in your content may slightly increase the token count.","When using `tiktoken.encode()` to count tokens in your prompt, you might see a difference compared to OpenAI’s API response. For instance, you might get 320 tokens, while OpenAI reports 327. This is due to internal tokens added by OpenAI’s chat formatting.
+
+Here’s what happens:
+
+- Each message in a `chat.completions.create()` call (e.g., `{role: ""user"", content: ""...""}`) adds 4 structural tokens (role, content, separators).
+- The API adds 2 tokens globally to mark the start of assistant response generation.
+- Extra newlines, whitespace, or uncommon Unicode characters in your content may slightly increase the token count.
+
+Thus, even if your visible text is 320 tokens, OpenAI may count 327 due to these internal additions.",bf0403d21b
+What’s the easiest way to keep my API key loaded automatically in every terminal without retyping export all the time?,"Use **`dirdotenv`** to auto-load your API key whenever you enter the project directory.
+
+Quick setup:
+
+```bash
+uv tool install dirdotenv
+```
+
+Add this to your `~/.bashrc` or `~/.zshrc`:
+
+```bash
+eval ""$(dirdotenv hook bash)""   # or zsh
+```
+
+Then in your project:
+
+```bash
+echo 'OPENAI_API_KEY=sk-...' > .env
+echo '.env' >> .gitignore
+```
+
+After that, the key loads automatically when you `cd` into the folder.
+
+If you already use it, `direnv` is also fine.","Use [`dirdotenv`](https://github.com/alexeygrigorev/dirdotenv). It is like `direnv`, but works with both `.env` and `.envrc`, and is more portable across shells and operating systems.
+
+```bash
+uv tool install dirdotenv
+
+# add this line to your ~/.bashrc or ~/.zshrc:
+eval ""$(dirdotenv hook bash)""   # or zsh
+
+# inside your project:
+echo 'OPENAI_API_KEY=sk-...' > .env
+echo '.env' >> .gitignore
+```
+
+After that, the key is loaded automatically when you `cd` into the project directory.
+
+Important: always add `.env` and `.envrc` to `.gitignore` so keys never land on GitHub.
+
+`direnv` is also fine if you already use it. In that case, create `.envrc`, add your exports there, and run `direnv allow`.
+
+For GitHub Codespaces, use the built-in [Codespaces secrets](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-your-account-specific-secrets-for-github-codespaces) instead of files in the repo.
+
+For Python scripts, the equivalent is `python-dotenv`:
+
+```python
+from dotenv import load_dotenv
+load_dotenv()  # loads .env from project root
+```",8b2f5e9d04
+"How can I set up my project so the OpenAI key gets picked up when I cd into the folder, but I don’t have to manually export it in each shell?","Use a `.env` file and start your app/project with that file so the key is available automatically when you `cd` into the folder.
+
+For example:
+
+```bash
+# in your project folder
+echo 'GEMINI_API_KEY=your-key-here' > .env
+```
+
+Then run your project/container with:
+
+```bash
+docker compose --env-file ./.env -f ./docker-compose.yml up -d
+```
+
+This way you don’t have to manually `export` the key in every shell.","Use [`dirdotenv`](https://github.com/alexeygrigorev/dirdotenv). It is like `direnv`, but works with both `.env` and `.envrc`, and is more portable across shells and operating systems.
+
+```bash
+uv tool install dirdotenv
+
+# add this line to your ~/.bashrc or ~/.zshrc:
+eval ""$(dirdotenv hook bash)""   # or zsh
+
+# inside your project:
+echo 'OPENAI_API_KEY=sk-...' > .env
+echo '.env' >> .gitignore
+```
+
+After that, the key is loaded automatically when you `cd` into the project directory.
+
+Important: always add `.env` and `.envrc` to `.gitignore` so keys never land on GitHub.
+
+`direnv` is also fine if you already use it. In that case, create `.envrc`, add your exports there, and run `direnv allow`.
+
+For GitHub Codespaces, use the built-in [Codespaces secrets](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-your-account-specific-secrets-for-github-codespaces) instead of files in the repo.
+
+For Python scripts, the equivalent is `python-dotenv`:
+
+```python
+from dotenv import load_dotenv
+load_dotenv()  # loads .env from project root
+```",8b2f5e9d04
+Is there a tool that works with both .env and .envrc for env vars and is more shell/OS friendly than direnv?,"Yes — **`dirdotenv`**.
+
+It works with both **`.env`** and **`.envrc`**, and is described as more portable across shells and operating systems than `direnv`.","Use [`dirdotenv`](https://github.com/alexeygrigorev/dirdotenv). It is like `direnv`, but works with both `.env` and `.envrc`, and is more portable across shells and operating systems.
+
+```bash
+uv tool install dirdotenv
+
+# add this line to your ~/.bashrc or ~/.zshrc:
+eval ""$(dirdotenv hook bash)""   # or zsh
+
+# inside your project:
+echo 'OPENAI_API_KEY=sk-...' > .env
+echo '.env' >> .gitignore
+```
+
+After that, the key is loaded automatically when you `cd` into the project directory.
+
+Important: always add `.env` and `.envrc` to `.gitignore` so keys never land on GitHub.
+
+`direnv` is also fine if you already use it. In that case, create `.envrc`, add your exports there, and run `direnv allow`.
+
+For GitHub Codespaces, use the built-in [Codespaces secrets](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-your-account-specific-secrets-for-github-codespaces) instead of files in the repo.
+
+For Python scripts, the equivalent is `python-dotenv`:
+
+```python
+from dotenv import load_dotenv
+load_dotenv()  # loads .env from project root
+```",8b2f5e9d04
+"If I’m using GitHub Codespaces, what should I use for secrets instead of putting an .env file in the repo?",Use **Codespaces secrets** instead of an `.env` file in the repo.,"Use [`dirdotenv`](https://github.com/alexeygrigorev/dirdotenv). It is like `direnv`, but works with both `.env` and `.envrc`, and is more portable across shells and operating systems.
+
+```bash
+uv tool install dirdotenv
+
+# add this line to your ~/.bashrc or ~/.zshrc:
+eval ""$(dirdotenv hook bash)""   # or zsh
+
+# inside your project:
+echo 'OPENAI_API_KEY=sk-...' > .env
+echo '.env' >> .gitignore
+```
+
+After that, the key is loaded automatically when you `cd` into the project directory.
+
+Important: always add `.env` and `.envrc` to `.gitignore` so keys never land on GitHub.
+
+`direnv` is also fine if you already use it. In that case, create `.envrc`, add your exports there, and run `direnv allow`.
+
+For GitHub Codespaces, use the built-in [Codespaces secrets](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-your-account-specific-secrets-for-github-codespaces) instead of files in the repo.
+
+For Python scripts, the equivalent is `python-dotenv`:
+
+```python
+from dotenv import load_dotenv
+load_dotenv()  # loads .env from project root
+```",8b2f5e9d04
+"For a Python script, how do I load variables from a .env file at runtime?","Load the `.env` file at runtime with `python-dotenv`:
+
+```bash
+pip install python-dotenv
+```
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+my_var = os.getenv(""MY_VAR"")
+```
+
+Make sure your `.env` file contains the variable, for example:
+
+```bash
+MY_VAR=some_value
+```","Use [`dirdotenv`](https://github.com/alexeygrigorev/dirdotenv). It is like `direnv`, but works with both `.env` and `.envrc`, and is more portable across shells and operating systems.
+
+```bash
+uv tool install dirdotenv
+
+# add this line to your ~/.bashrc or ~/.zshrc:
+eval ""$(dirdotenv hook bash)""   # or zsh
+
+# inside your project:
+echo 'OPENAI_API_KEY=sk-...' > .env
+echo '.env' >> .gitignore
+```
+
+After that, the key is loaded automatically when you `cd` into the project directory.
+
+Important: always add `.env` and `.envrc` to `.gitignore` so keys never land on GitHub.
+
+`direnv` is also fine if you already use it. In that case, create `.envrc`, add your exports there, and run `direnv allow`.
+
+For GitHub Codespaces, use the built-in [Codespaces secrets](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-your-account-specific-secrets-for-github-codespaces) instead of files in the repo.
+
+For Python scripts, the equivalent is `python-dotenv`:
+
+```python
+from dotenv import load_dotenv
+load_dotenv()  # loads .env from project root
+```",8b2f5e9d04
+How do I decide on field weights in minsearch or a similar search setup without just guessing?,"Use a systematic evaluation, not guesswork.
+
+A good approach is:
+
+1. Create a small set of representative questions.
+2. Mark which documents should be retrieved for each question.
+3. Try different field weight settings.
+4. Compare retrieval metrics like hit rate, precision@k, recall@k, or MRR.
+
+For small projects, trial and error can work, but evaluation against a ground-truth dataset is the more reliable method.","The systematic approach is to evaluate different weight settings against a ground-truth dataset.
+
+For example:
+
+1. Create a small set of representative questions.
+2. Mark which documents should be retrieved for each question.
+3. Try different field weights.
+4. Compare retrieval metrics such as hit rate, precision@k, recall@k, or MRR.
+
+You can tune weights by trial and error for small projects, but evaluation is the more reliable approach. The course covers this topic more directly in the evaluation module.",87d4ea4e08
+What’s the best way to test different field weights for retrieval if I have a small labeled set?,"The best way is to evaluate different field weights against your labeled set.
+
+A practical approach:
+1. Prepare a small set of representative queries.
+2. Label which documents should be retrieved for each query.
+3. Try different field-weight combinations.
+4. Compare retrieval metrics like hit rate, precision@k, recall@k, or MRR.
+
+For a small labeled set, trial and error can work, but systematic evaluation is the more reliable method.","The systematic approach is to evaluate different weight settings against a ground-truth dataset.
+
+For example:
+
+1. Create a small set of representative questions.
+2. Mark which documents should be retrieved for each question.
+3. Try different field weights.
+4. Compare retrieval metrics such as hit rate, precision@k, recall@k, or MRR.
+
+You can tune weights by trial and error for small projects, but evaluation is the more reliable approach. The course covers this topic more directly in the evaluation module.",87d4ea4e08
+"Should I tune search field weights by trial and error, or is there a better method for RAG projects?","Use evaluation, not just trial and error.
+
+A better method for RAG projects is to:
+
+1. Create a small set of representative questions.
+2. Mark which documents should be retrieved for each question.
+3. Try different field weights.
+4. Compare retrieval metrics like hit rate, precision@k, recall@k, or MRR.
+
+You can do trial and error for small projects, but evaluation against a ground-truth dataset is the more reliable approach.","The systematic approach is to evaluate different weight settings against a ground-truth dataset.
+
+For example:
+
+1. Create a small set of representative questions.
+2. Mark which documents should be retrieved for each question.
+3. Try different field weights.
+4. Compare retrieval metrics such as hit rate, precision@k, recall@k, or MRR.
+
+You can tune weights by trial and error for small projects, but evaluation is the more reliable approach. The course covers this topic more directly in the evaluation module.",87d4ea4e08
+What kind of ground-truth data do I need before comparing different field weight settings?,"You need a small **ground-truth dataset** where, for each representative question, you’ve **marked which documents should be retrieved**.
+
+In practice:
+
+1. Create a set of representative questions.
+2. Label the relevant document(s) for each question.
+3. Then compare different field weight settings against that dataset using metrics like **hit rate, precision@k, recall@k, or MRR**.
+
+If you want, I can also explain what a good ground-truth set looks like for a small project.","The systematic approach is to evaluate different weight settings against a ground-truth dataset.
+
+For example:
+
+1. Create a small set of representative questions.
+2. Mark which documents should be retrieved for each question.
+3. Try different field weights.
+4. Compare retrieval metrics such as hit rate, precision@k, recall@k, or MRR.
+
+You can tune weights by trial and error for small projects, but evaluation is the more reliable approach. The course covers this topic more directly in the evaluation module.",87d4ea4e08
+Which metrics should I look at when checking whether one field-weight combination retrieves better than another?,"Look at retrieval metrics such as:
+
+- hit rate
+- precision@k
+- recall@k
+- MRR
+
+These are the metrics the course suggests for comparing different field-weight settings.","The systematic approach is to evaluate different weight settings against a ground-truth dataset.
+
+For example:
+
+1. Create a small set of representative questions.
+2. Mark which documents should be retrieved for each question.
+3. Try different field weights.
+4. Compare retrieval metrics such as hit rate, precision@k, recall@k, or MRR.
+
+You can tune weights by trial and error for small projects, but evaluation is the more reliable approach. The course covers this topic more directly in the evaluation module.",87d4ea4e08
+What are the main things I should clean up before using documents in a RAG pipeline?,"The main cleanup steps are:
+
+- Remove obvious noise: broken HTML, duplicate text, boilerplate, OCR errors, repeated headers, and repeated footers.
+- Preserve useful structure: titles, section names, dates, page numbers, speaker names, and Q&A formatting.
+- Store the cleaned content in a structured format that is easy to process, like JSON.
+- Chunk the documents so related context stays together.
+- Keep useful metadata for later filtering or ranking.
+
+The goal is not just to shorten the text, but to make retrieval more accurate.","Prepare the data so it is clean, structured, and easy to chunk and retrieve.
+
+Common steps:
+
+- Remove obvious noise such as broken HTML, duplicate text, boilerplate, OCR errors, repeated headers, and repeated footers.
+- Preserve useful context such as titles, section names, dates, page numbers, speaker names, and Q&A structure.
+- Store the result in a structured format that is easy to process. JSON is often convenient, but it is not mandatory.
+- Chunk the documents in a way that keeps related context together.
+- Keep metadata that may help filtering or ranking later.
+
+The exact format depends on the source data. The goal is not just to make the text shorter, but to make retrieval more accurate.",649c280e6d
+"Should I remove things like HTML junk, repeated headers, and OCR mistakes when preparing data for retrieval?","Yes — you should remove obvious noise like broken HTML, duplicate text, boilerplate, OCR errors, repeated headers, and repeated footers when preparing documents for retrieval.
+
+At the same time, keep useful context such as titles, section names, dates, page numbers, speaker names, and Q&A structure. The goal is to make the data clean and structured so retrieval is more accurate, not just shorter.","Prepare the data so it is clean, structured, and easy to chunk and retrieve.
+
+Common steps:
+
+- Remove obvious noise such as broken HTML, duplicate text, boilerplate, OCR errors, repeated headers, and repeated footers.
+- Preserve useful context such as titles, section names, dates, page numbers, speaker names, and Q&A structure.
+- Store the result in a structured format that is easy to process. JSON is often convenient, but it is not mandatory.
+- Chunk the documents in a way that keeps related context together.
+- Keep metadata that may help filtering or ranking later.
+
+The exact format depends on the source data. The goal is not just to make the text shorter, but to make retrieval more accurate.",649c280e6d
+What useful information do I need to keep in my docs so RAG still has enough context?,"Keep the information that helps retrieval stay accurate, especially:
+
+- Titles and section names
+- Dates
+- Page numbers
+- Speaker names
+- Q&A structure
+- Other metadata useful for filtering or ranking later
+
+Also, keep the text **chunked so related context stays together**, and remove obvious noise like:
+
+- Broken HTML
+- Duplicate text
+- Boilerplate
+- OCR errors
+- Repeated headers/footers
+
+The goal is not just shorter docs, but docs that are **clean, structured, and easy to chunk and retrieve**.","Prepare the data so it is clean, structured, and easy to chunk and retrieve.
+
+Common steps:
+
+- Remove obvious noise such as broken HTML, duplicate text, boilerplate, OCR errors, repeated headers, and repeated footers.
+- Preserve useful context such as titles, section names, dates, page numbers, speaker names, and Q&A structure.
+- Store the result in a structured format that is easy to process. JSON is often convenient, but it is not mandatory.
+- Chunk the documents in a way that keeps related context together.
+- Keep metadata that may help filtering or ranking later.
+
+The exact format depends on the source data. The goal is not just to make the text shorter, but to make retrieval more accurate.",649c280e6d
+"Do I need to put my source data into JSON for RAG, or can I use another format?","No. JSON is often convenient, but it is not mandatory. The goal is to store your source data in a structured format that is easy to process, chunk, and retrieve, and the exact format depends on your source data.","Prepare the data so it is clean, structured, and easy to chunk and retrieve.
+
+Common steps:
+
+- Remove obvious noise such as broken HTML, duplicate text, boilerplate, OCR errors, repeated headers, and repeated footers.
+- Preserve useful context such as titles, section names, dates, page numbers, speaker names, and Q&A structure.
+- Store the result in a structured format that is easy to process. JSON is often convenient, but it is not mandatory.
+- Chunk the documents in a way that keeps related context together.
+- Keep metadata that may help filtering or ranking later.
+
+The exact format depends on the source data. The goal is not just to make the text shorter, but to make retrieval more accurate.",649c280e6d
+How should I chunk documents and what metadata is worth saving for better retrieval later?,"Chunk documents so that **related context stays together** rather than splitting arbitrarily. The goal is not just shorter text, but **better retrieval**.
+
+Useful things to keep as metadata:
+
+- **titles**
+- **section names**
+- **dates**
+- **page numbers**
+- **speaker names**
+- **Q&A structure**
+
+Also keep metadata that may help **filtering or ranking later**.
+
+In short:
+
+- remove noise like boilerplate, repeated headers/footers, OCR errors, broken HTML, etc.
+- preserve structure and context
+- chunk by logical boundaries
+- save metadata that helps retrieval
+
+If you want, I can also suggest a practical chunking strategy for PDFs, web pages, or Q&A documents.","Prepare the data so it is clean, structured, and easy to chunk and retrieve.
+
+Common steps:
+
+- Remove obvious noise such as broken HTML, duplicate text, boilerplate, OCR errors, repeated headers, and repeated footers.
+- Preserve useful context such as titles, section names, dates, page numbers, speaker names, and Q&A structure.
+- Store the result in a structured format that is easy to process. JSON is often convenient, but it is not mandatory.
+- Chunk the documents in a way that keeps related context together.
+- Keep metadata that may help filtering or ranking later.
+
+The exact format depends on the source data. The goal is not just to make the text shorter, but to make retrieval more accurate.",649c280e6d
+"Why does uv show a ""Failed to hardlink files"" warning in GitHub Codespaces, and should I worry about it?","It happens because `uv` can’t hardlink files from its cache into the Codespaces environment. In GitHub Codespaces, that’s a known limitation, not a real error.
+
+You generally do **not** need to worry: the package still installs, and `uv` automatically falls back to copying the files instead.
+
+If you want to hide the warning, set:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+For a persistent setting:
+
+```bash
+echo 'export UV_LINK_MODE=copy' >> ~/.bashrc
+source ~/.bashrc
+```","No. This warning can happen in GitHub Codespaces when `uv` cannot hardlink files between the cache and the target environment.
+
+The package still installs. `uv` falls back to copying files.
+
+To suppress the warning for the current shell:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+To make it persistent:
+
+```bash
+echo 'export UV_LINK_MODE=copy' >> ~/.bashrc
+source ~/.bashrc
+```
+
+See the `uv` documentation for more details: [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/).",acf8fa5356
+"If uv can’t hardlink packages in Codespaces, does the install still succeed or does it break the setup?","Yes, the install still succeeds. If `uv` can’t hardlink in Codespaces, it falls back to copying the files, so the setup does **not** break.","No. This warning can happen in GitHub Codespaces when `uv` cannot hardlink files between the cache and the target environment.
+
+The package still installs. `uv` falls back to copying files.
+
+To suppress the warning for the current shell:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+To make it persistent:
+
+```bash
+echo 'export UV_LINK_MODE=copy' >> ~/.bashrc
+source ~/.bashrc
+```
+
+See the `uv` documentation for more details: [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/).",acf8fa5356
+How do I stop the uv hardlink warning for just the current terminal session?,"Set the environment variable for the current shell:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+This will stop the `uv` hardlink warning for just the current terminal session.","No. This warning can happen in GitHub Codespaces when `uv` cannot hardlink files between the cache and the target environment.
+
+The package still installs. `uv` falls back to copying files.
+
+To suppress the warning for the current shell:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+To make it persistent:
+
+```bash
+echo 'export UV_LINK_MODE=copy' >> ~/.bashrc
+source ~/.bashrc
+```
+
+See the `uv` documentation for more details: [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/).",acf8fa5356
+What’s the easiest way to make uv always use copy mode instead of hardlinks in Codespaces?,"Use:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+If you want it to always apply in Codespaces, add it to your shell startup file:
+
+```bash
+echo 'export UV_LINK_MODE=copy' >> ~/.bashrc
+source ~/.bashrc
+```","No. This warning can happen in GitHub Codespaces when `uv` cannot hardlink files between the cache and the target environment.
+
+The package still installs. `uv` falls back to copying files.
+
+To suppress the warning for the current shell:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+To make it persistent:
+
+```bash
+echo 'export UV_LINK_MODE=copy' >> ~/.bashrc
+source ~/.bashrc
+```
+
+See the `uv` documentation for more details: [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/).",acf8fa5356
+Where can I read more about uv link modes and this hardlink/copy behavior?,You can read more in the official uv docs: https://docs.astral.sh/uv/,"No. This warning can happen in GitHub Codespaces when `uv` cannot hardlink files between the cache and the target environment.
+
+The package still installs. `uv` falls back to copying files.
+
+To suppress the warning for the current shell:
+
+```bash
+export UV_LINK_MODE=copy
+```
+
+To make it persistent:
+
+```bash
+echo 'export UV_LINK_MODE=copy' >> ~/.bashrc
+source ~/.bashrc
+```
+
+See the `uv` documentation for more details: [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/).",acf8fa5356
+I keep getting “dotenv is not recognized” — what package do I need to install for this?,"Install `python-dotenv`:
+
+```bash
+uv add python-dotenv
+```
+
+Then use it like this:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+","Install `python-dotenv`:
+
+```bash
+uv add python-dotenv
+```
+
+Then import and use it in Python:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+The package is documented here: [python-dotenv](https://pypi.org/project/python-dotenv/).",0bed1f48da
+How do I fix the error when my code says dotenv isn’t recognized in Python?,"Install `python-dotenv`, then load your `.env` file in Python.
+
+```bash
+pip install python-dotenv
+```
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+If your API key still isn’t found, make sure the variable name in `.env` is exactly `OPENAI_API_KEY`.","Install `python-dotenv`:
+
+```bash
+uv add python-dotenv
+```
+
+Then import and use it in Python:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+The package is documented here: [python-dotenv](https://pypi.org/project/python-dotenv/).",0bed1f48da
+What should I add with uv if load_dotenv from dotenv is missing?,"Add `python-dotenv` with `uv`:
+
+```bash
+uv add python-dotenv
+```
+
+Then you can use:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```","Install `python-dotenv`:
+
+```bash
+uv add python-dotenv
+```
+
+Then import and use it in Python:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+The package is documented here: [python-dotenv](https://pypi.org/project/python-dotenv/).",0bed1f48da
+"Do I need to install python-dotenv to use load_dotenv, and how do I import it?","Yes — if `load_dotenv` is not recognized, you need to install **`python-dotenv`**.
+
+Import it like this:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+If needed, install it with:
+
+```bash
+pip install python-dotenv
+```
+
+or:
+
+```bash
+uv add python-dotenv
+```","Install `python-dotenv`:
+
+```bash
+uv add python-dotenv
+```
+
+Then import and use it in Python:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+The package is documented here: [python-dotenv](https://pypi.org/project/python-dotenv/).",0bed1f48da
+What’s the correct way to set up dotenv in a project so load_dotenv works?,"Install `python-dotenv` and load the `.env` file before using your variables:
+
+```bash
+pip install python-dotenv
+```
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+Also make sure your `.env` file is in the project root and contains the variable exactly as needed, for example:
+
+```env
+OPENAI_API_KEY=sk-...
+```
+
+If you want, I can also show a minimal working project structure.","Install `python-dotenv`:
+
+```bash
+uv add python-dotenv
+```
+
+Then import and use it in Python:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+The package is documented here: [python-dotenv](https://pypi.org/project/python-dotenv/).",0bed1f48da
+Is it okay to do the course on my own machine instead of using Codespaces?,"Yes. Codespaces is just the easiest way to start with the same environment, but you can run the course locally if you’re comfortable setting up Python, `uv`, Jupyter, Docker, and any other needed tools.
+
+If you do run it locally, make sure to document your setup and keep it reproducible.","Yes. Codespaces is just the easiest way for everyone to start with the same environment.
+
+You can run the course locally if you are comfortable setting up Python, `uv`, Jupyter, Docker, and any other tools needed for the module.
+
+If you run locally, make sure you document your setup and keep your environment reproducible.",aa310de435
+"Do I have to use Codespaces, or can I set everything up locally for the module?","No — you don’t have to use Codespaces. You can run the module locally instead, as long as you’re comfortable setting up the required tools like Python, `uv`, Jupyter, Docker, and anything else the module needs.
+
+Codespaces is just the easiest way to get everyone started in the same environment. If you run locally, make sure to document your setup and keep it reproducible.","Yes. Codespaces is just the easiest way for everyone to start with the same environment.
+
+You can run the course locally if you are comfortable setting up Python, `uv`, Jupyter, Docker, and any other tools needed for the module.
+
+If you run locally, make sure you document your setup and keep your environment reproducible.",aa310de435
+"If I run the course locally, what tools do I need to install first?","If you run the course locally, you need to install the tools for the module you’re working on. The context specifically says you should be comfortable setting up:
+
+- Python
+- `uv`
+- Jupyter
+- Docker
+- any other tools needed for the module
+
+If you want, I can also list the Ollama install steps from the context.","Yes. Codespaces is just the easiest way for everyone to start with the same environment.
+
+You can run the course locally if you are comfortable setting up Python, `uv`, Jupyter, Docker, and any other tools needed for the module.
+
+If you run locally, make sure you document your setup and keep your environment reproducible.",aa310de435
+Why does the course recommend Codespaces if local setup is allowed too?,"Codespaces is recommended because it’s the easiest way for everyone to start with the same environment. Local setup is allowed, but only if you’re comfortable installing and managing the needed tools yourself and keeping the environment reproducible.","Yes. Codespaces is just the easiest way for everyone to start with the same environment.
+
+You can run the course locally if you are comfortable setting up Python, `uv`, Jupyter, Docker, and any other tools needed for the module.
+
+If you run locally, make sure you document your setup and keep your environment reproducible.",aa310de435
+What should I do to keep my local environment reproducible for the course?,"If you run the course locally, make sure you:
+
+- document your setup
+- keep your environment reproducible
+- create/use a project-specific `.venv` with `uv venv`
+- verify you’re using the correct Python from that environment
+
+If `uv` starts using the wrong environment, `deactivate`, `cd` into the right project folder, recreate/activate the `.venv`, and confirm with `which python` (or `where python` on Windows).","Yes. Codespaces is just the easiest way for everyone to start with the same environment.
+
+You can run the course locally if you are comfortable setting up Python, `uv`, Jupyter, Docker, and any other tools needed for the module.
+
+If you run locally, make sure you document your setup and keep your environment reproducible.",aa310de435
+"If I keep editing in Codespaces but never commit, is my work still stored somewhere or can I lose it?","Yes — your uncommitted edits are stored in the Codespaces Linux VM, so they can survive a normal stop/start.
+
+But you can still lose them if the codespace is deleted, recreated, or otherwise reset. So you should commit and push regularly to keep your work safe in your GitHub repository.","The code is saved inside the Codespaces Linux VM.
+
+However, you should still commit your work regularly. Codespaces can stop, disconnect, or be deleted later, and committing makes sure your work is stored in your GitHub repository.",610ccb23c0
+Where does the code actually live when I save it in GitHub Codespaces?,"It lives inside the Codespaces Linux VM if you haven’t committed it yet.
+
+If you want it safely stored long-term, commit and push it to your GitHub repository.","The code is saved inside the Codespaces Linux VM.
+
+However, you should still commit your work regularly. Codespaces can stop, disconnect, or be deleted later, and committing makes sure your work is stored in your GitHub repository.",610ccb23c0
+"Do I need to commit often in Codespaces, or is the VM enough to keep my changes safe?","Yes — you should commit often.
+
+The code in Codespaces is saved in the Linux VM, so it can survive a stop/start. But it’s not fully safe just because it’s in the VM: if the codespace gets deleted, recreated, or has issues, uncommitted changes can be lost. Committing and pushing regularly keeps your work in your GitHub repository.","The code is saved inside the Codespaces Linux VM.
+
+However, you should still commit your work regularly. Codespaces can stop, disconnect, or be deleted later, and committing makes sure your work is stored in your GitHub repository.",610ccb23c0
+Can a Codespace disappear and take my uncommitted changes with it?,"Yes. If you delete or recreate the codespace, any **uncommitted changes are lost**. Uncommitted changes do survive a stop/start, though.
+
+So the safe rule is: **commit and push your work often**.","The code is saved inside the Codespaces Linux VM.
+
+However, you should still commit your work regularly. Codespaces can stop, disconnect, or be deleted later, and committing makes sure your work is stored in your GitHub repository.",610ccb23c0
+What’s the best way to make sure my work in Codespaces is not lost later?,"The best way is to **commit and push your work regularly to GitHub**.
+
+Codespaces can stop, disconnect, or even be deleted later, so uncommitted changes may be lost.","The code is saved inside the Codespaces Linux VM.
+
+However, you should still commit your work regularly. Codespaces can stop, disconnect, or be deleted later, and committing makes sure your work is stored in your GitHub repository.",610ccb23c0
