@@ -41,6 +41,30 @@ def init_db(drop=False):
     finally:
         conn.close()
 
+def init_feedback():
+    conn = get_db_connection()
+    try:
+        with conn.cursor() as cur:
+            cur.execute("DROP TABLE IF EXISTS feedback")
+
+            cur.execute("""
+                CREATE TABLE feedback (
+                    id SERIAL PRIMARY KEY,
+                    conversation_id INTEGER REFERENCES conversations(id),
+                    source TEXT NOT NULL,
+                    relevance TEXT,
+                    explanation TEXT,
+                    score INTEGER,
+                    timestamp TIMESTAMP WITH TIME ZONE NOT NULL
+                )
+            """)
+        conn.commit()
+    finally:
+        conn.close()
+
 if __name__ == "__main__":
-    init_db()
+    # Comment out parts that are already done e.g. not to run init_db() if the db
+    # is already created the first time
+    #init_db()
+    init_feedback()
     print("Database initialized")
