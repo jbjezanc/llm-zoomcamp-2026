@@ -9,6 +9,18 @@ chat:
 dashboard:
 	uv run streamlit run dashboard.py
 
+grafana-up:
+	docker compose -f docker-compose.grafana.yml up -d
+
+grafana-down:
+	docker compose -f docker-compose.grafana.yml up -d
+
+grafana-down:
+	docker compose -f docker-compose.grafana.yml down
+
+grafana-destroy:
+	docker compose -f docker-compose.grafana.yml down -v
+
 network:
 	docker network create monitoring
 

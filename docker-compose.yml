@@ -1,22 +1,51 @@
 services:
-  course-assistant-pg:
+  postgres:
     image: postgres:17
     container_name: course-assistant-pg
     environment:
-      POSTGRES_USER: user
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: course_assistant
-    ports:
-      - "5432:5432"
+      POSTGRES_DB: ${POSTGRES_DB:-course_assistant}
+      POSTGRES_USER: ${POSTGRES_USER:-user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-password}
     volumes:
-      - pgdata:/var/lib/postgresql/data
-    networks:
-      - monitoring
+      - postgres_data:/var/lib/postgresql/data
+    network_mode: host
     restart: unless-stopped
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-user} -d ${POSTGRES_DB:-course_assistant}" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  grafana:
+    image: grafana/grafana
+    container_name: grafana
+    volumes:
+      - grafana_data:/var/lib/grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    network_mode: host
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: streamlit
+    environment:
+      - POSTGRES_HOST=${POSTGRES_HOST:-127.0.0.1}
+      - POSTGRES_DB=${POSTGRES_DB:-course_assistant}
+      - POSTGRES_USER=${POSTGRES_USER:-user}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-password}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    network_mode: host
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
 
 volumes:
-  pgdata:
-
-networks:
-  monitoring:
-    external: true
+  postgres_data:
+  grafana_data:

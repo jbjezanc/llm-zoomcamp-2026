@@ -66,5 +66,5 @@ if __name__ == "__main__":
     # Comment out parts that are already done e.g. not to run init_db() if the db
     # is already created the first time
     #init_db()
-    init_feedback()
+    #init_feedback()
     print("Database initialized")
